@@ -39,10 +39,10 @@ public class RecordDao {
 	 * 
 	 * 
 	 */
-	public void insertRecordInfo(Record record) {
+	public void addRecord(Record record) {
 		StringBuilder sql = new StringBuilder();
 		sql.append("insert into tb_record_contact(jlsj,ksid,lxid,lyid,wtms,fsid,sjid, ");
-		sql.append(" wxfy,ygid,ztid,qrbz,wxbz values( ");
+		sql.append(" wxfy,ygid,ztid,qrbz,wxbz) values( ");
 		sql.append(" ?,?,?,?,?,?,?,?,?,?,?,?)");
 		jdbcTemplate.update(sql.toString(), record.getJlsj(), record.getDept().getKsid(), record.getKind().getLxid(),
 				record.getContact().getLyid(), record.getWtms(), record.getMethod().getFsid(),

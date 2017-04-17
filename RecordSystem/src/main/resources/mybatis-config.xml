@@ -3,8 +3,16 @@
 PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
-	<!-- 别名 -->
+	<!-- 控制框架运行的属性信息 -->
+	<settings>
+		<setting name="lazyLoadingEnabled" value="false" />
+	</settings>
+	<!-- 定义全限定类名的别名，用于简化配置 -->
 	<typeAliases>
-		<package name="com.txey.record.model"/>
+	<typeAlias alias="Record" type="com.txey.record.model.Record"/> 
 	</typeAliases>
+	<!-- 引用映射文件 -->
+	<mappers>
+	<mapper resource="com/txey/record/model/mybatis/Record.xml"/>
+	</mappers>
 </configuration>
