@@ -2,21 +2,32 @@ package com.txey.record.model;
 
 import java.util.Date;
 
-//记录表
+
+/**
+
+* 记录表实体类
+
+* @author Alex Jones
+
+* @Time 2017-04-17 22:44:01
+
+*
+
+*/
 public class Record {
-	private int jlid; // 记录ID
-	private Date jlsj; // 记录时间
-	private Dept dept; // 报修科室
-	private Kind kind; // 问题类型
-	private Contact contact; // 问题来源
-	private String wtms; // 问题描述
-	private Method method; // 维修方式
-	private Time time; // 修复时间
-	private float wxfy; // 维修费用
-	private Employee employee; // 维修人员
-	private State state; // 解决状态
-	private int qrzt; // 确认状态（0为未解决，1为解决）
-	private String wxbz; // 维修备注
+	private int jlid;//记录ID
+	private Date jlsj;//记录时间
+	private Dept dept;//报修科室
+	private Kind kind;//问题类型
+	private Contact contact;//问题来源
+	private String wtms;//问题描述
+	private Method method;//维修方式
+	private Time time;//修复时间
+	private float wxfy;//维修费用
+	private Employee employee;//维修人员
+	private State state;//解决状态
+	private int qrzt;//确认状态（0为未解决，1为解决）
+	private String wxbz;//维修备注
 	public int getJlid() {
 		return jlid;
 	}

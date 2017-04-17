@@ -1,12 +1,24 @@
 package com.txey.record.model;
 //员工
+
+/**
+
+* 员工信息实体类
+
+* @author Alex Jones
+
+* @Time 2017-04-17 22:44:01
+
+*
+
+*/
 public class Employee {
-	private int ygid;	//员工ID
-	private String ygxm;	//员工姓名
-	private String xmpy;	//姓名拼音
-	private int ksid;	//科室ID
-	private String userName;	//用户名
-	private String password;	//密码
+	private int ygid;//员工ID
+	private String ygxm;//员工姓名
+	private String xmpy;//姓名拼音
+	private int ksid;//科室ID
+	private String userName;//用户名
+	private String password;//密码
 	public int getYgid() {
 		return ygid;
 	}

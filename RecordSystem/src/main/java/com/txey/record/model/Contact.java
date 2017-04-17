@@ -1,10 +1,21 @@
 package com.txey.record.model;
 
-//问题来源
-public class Contact {
-	private int lyid;	//来源ID
-	private String lymc;	//来源名称
-	private String lymcpy;	//来源名称拼音
+
+/**
+
+* 问题来源实体类
+
+* @author Alex Jones
+
+* @Time 2017-04-17 22:44:01
+
+*
+
+*/
+public class Contact { 
+	private int lyid;//来源ID
+	private String lymc;//来源名称
+	private String lymcpy;//来源名称拼音
 
 	public int getLyid() {
 		return lyid;

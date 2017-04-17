@@ -1,11 +1,22 @@
 package com.txey.record.model;
-//报修科室
+
+/**
+
+* 报修科室实体类
+
+* @author Alex Jones
+
+* @Time 2017-04-17 22:44:01
+
+*
+
+*/
 public class Dept {
-	private int ksid;	//科室ID
-	private String ksmc;	//科室名称
-	private String ksmcpy;	//科室名称拼音
-	private int kslxid;		//科室类型ID
-	private String hcbz;	//耗材备注
+	private int ksid;//科室ID
+	private String ksmc;//科室名称
+	private String ksmcpy;//科室名称拼音
+	private int kslxid;//科室类型ID
+	private String hcbz;//耗材备注
 
 	public int getKsid() {
 		return ksid;

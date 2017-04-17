@@ -34,10 +34,6 @@
 	<!-- 配置myBatis的sqlSessionFactory -->
 	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
 		<property name="dataSource" ref="dataSource" />
-		<!-- 自动扫描mappers.xml文件 -->
-		<!-- <property name="mapperLocations"-->
-		<!-- value="classpath:com/netease/blog/dao/mapper/*.xml"></property>-->
-		<!-- myBatis配置文件 -->
 		<property name="configLocation" value="classpath:mybatis-config.xml"></property>
 	</bean>
 	
