@@ -1024,3 +1024,1014 @@ Caused by: java.io.FileNotFoundException: D:\Java\repository\org\aopalliance\com
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 14:52:31.545
 !MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:22:34.495
+!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:22:52.883
+!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:23:08.280
+!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:23:08.460
+!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.042
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.044
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.047
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.049
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.051
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.053
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.487
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.488
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.490
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.491
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.493
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.495
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.574
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.576
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.580
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.351
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.353
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.355
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.356
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.360
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.362
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.507
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.509
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.510
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.512
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.514
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.515
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.829
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.831
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.833
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.835
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.837
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.840
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.140
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.142
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.144
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.145
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.147
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.149
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.183
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.187
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.192
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.310
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.312
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.314
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.317
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.319
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.321
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.457
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.459
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.460
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.462
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.463
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.465
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.533
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.535
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.539
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.391
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.393
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.396
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.398
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.400
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.403
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.554
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.555
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.557
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.559
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.561
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.563
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.882
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.883
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.885
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.887
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.888
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.890
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.142
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.144
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.145
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.147
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.148
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.150
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.183
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.188
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.193
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.394
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.397
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.399
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.401
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.404
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.406
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.540
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.542
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.544
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.546
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.547
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.549
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.613
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.615
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.618
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.128
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.129
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.131
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.132
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.134
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.135
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.621
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.623
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.624
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.627
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.628
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.630
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.744
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.745
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.746
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.748
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.749
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.751
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.823
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.825
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.829
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:24.376
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:24.889
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.764
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.764
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.766
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.767
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.768
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.769
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.770
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.771
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.772
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.774
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.954
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.956
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.958
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.959
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.961
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.963
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:27.044
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:27.048
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:27.052
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.936
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.938
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.939
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.942
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.943
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.945
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.428
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.429
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.431
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.433
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.435
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.437
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.553
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.555
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.556
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.558
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.559
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.561
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.634
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.651
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.657
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.711
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.717
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.719
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.721
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.723
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.725
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.185
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.187
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.189
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.191
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.194
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.196
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.326
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.328
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.329
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.331
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.332
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.334
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.408
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.409
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.413
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.088
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.090
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.091
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.093
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.095
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.097
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.626
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.628
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.630
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.631
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.633
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.634
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.752
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.753
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.755
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.756
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.758
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.759
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.827
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.829
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.832
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.903
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.905
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.906
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.908
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.909
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.911
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.367
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.369
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.370
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.372
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.373
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.374
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.488
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.489
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.491
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.492
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.494
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.495
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.571
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.572
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.576
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.082
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.084
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.085
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.087
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.088
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.090
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.580
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.582
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.584
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.586
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.588
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.590
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.692
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.693
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.695
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.696
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.698
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.699
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.778
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.780
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.784
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.293
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.294
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.295
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.297
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.298
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.300
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.322
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.326
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.915
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.917
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.918
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.920
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.922
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.924
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.051
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.053
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.055
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.057
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.060
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.062
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.358
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.361
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.363
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.365
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.367
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.369
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.771
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.773
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.775
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.778
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.780
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.782
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.816
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.822
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.828
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.933
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.935
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.946
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.947
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:28.906
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:28.909
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:02.309
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:02.316
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:02.325
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:11.102
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:11.104
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:21.757
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:21.760
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:21.767
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:51.696
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:51.699
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:59.447
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:59.450
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:14.324
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:14.326
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:30.098
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:30.101
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:43.089
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:43.092
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:43.096
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:04:19.878
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:04:19.880
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:04:19.886
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.core.resources 2 2 2017-04-16 16:05:36.355
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-04-16 16:05:36.355
+!MESSAGE The project description file (.project) for 'emall-parent' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-04-16 16:05:36.355
+!MESSAGE The project description file (.project) for 'generatorSqlmapCustom' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:10:54.984
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:10:55.000
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:11:12.362
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:11:12.371
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:17:40.096
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:17:40.102
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.266
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.269
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.273
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.650
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.654
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 1006 2017-04-17 08:25:47.732
+!MESSAGE D:\Java\repository\mysql\mysql-connector-java\5.1.29\mysql-connector-java-5.1.29.jar is not on its project's build path
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:26:00.408
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:26:00.411
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-04-17 09:43:23.776 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_15
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-17 09:43:34.921
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 10:07:01.425
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 10:07:01.440
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 10:07:01.450
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!

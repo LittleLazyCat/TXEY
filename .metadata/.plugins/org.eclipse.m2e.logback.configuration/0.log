@@ -467,3 +467,752 @@
 2017-04-16 11:07:03,827 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-04-16 11:07:03,828 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2017-04-16 11:07:03,829 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 14:41:30,250 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 14:41:31,486 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.29/mysql-connector-java-5.1.29.pom
+2017-04-16 14:41:31,746 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.29/mysql-connector-java-5.1.29.pom
+2017-04-16 14:41:31,939 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2017-04-16 14:41:32,162 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.pom
+2017-04-16 14:41:32,362 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/12/commons-parent-12.pom
+2017-04-16 14:41:32,742 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/12/commons-parent-12.pom
+2017-04-16 14:41:32,937 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.pom
+2017-04-16 14:41:33,148 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.4/commons-pool-1.5.4.pom
+2017-04-16 14:41:33,340 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-04-16 14:41:33,563 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-04-16 14:41:33,752 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-04-16 14:41:33,978 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-04-16 14:41:34,170 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.3/commons-pool-1.5.3.pom
+2017-04-16 14:41:34,378 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.3/commons-pool-1.5.3.pom
+2017-04-16 14:41:34,568 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/11/commons-parent-11.pom
+2017-04-16 14:41:34,795 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/11/commons-parent-11.pom
+2017-04-16 14:41:35,005 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-04-16 14:41:35,192 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-04-16 14:41:35,386 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2017-04-16 14:41:35,626 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+2017-04-16 14:41:35,814 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2017-04-16 14:41:36,008 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+2017-04-16 14:41:36,201 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.8.RELEASE/spring-beans-3.2.8.RELEASE.pom
+2017-04-16 14:41:36,394 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.8.RELEASE/spring-beans-3.2.8.RELEASE.pom
+2017-04-16 14:41:36,586 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.8.RELEASE/spring-core-3.2.8.RELEASE.pom
+2017-04-16 14:41:36,776 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.8.RELEASE/spring-core-3.2.8.RELEASE.pom
+2017-04-16 14:41:36,975 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+2017-04-16 14:41:37,823 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom
+2017-04-16 14:41:38,074 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2017-04-16 14:41:38,948 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom
+2017-04-16 14:41:39,208 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.8.RELEASE/spring-context-3.2.8.RELEASE.pom
+2017-04-16 14:41:39,450 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.8.RELEASE/spring-context-3.2.8.RELEASE.pom
+2017-04-16 14:41:39,689 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.8.RELEASE/spring-aop-3.2.8.RELEASE.pom
+2017-04-16 14:41:39,933 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.8.RELEASE/spring-aop-3.2.8.RELEASE.pom
+2017-04-16 14:41:40,152 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2017-04-16 14:41:40,347 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2017-04-16 14:41:40,606 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.8.RELEASE/spring-expression-3.2.8.RELEASE.pom
+2017-04-16 14:41:40,802 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.8.RELEASE/spring-expression-3.2.8.RELEASE.pom
+2017-04-16 14:41:41,005 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.8.RELEASE/spring-jdbc-3.2.8.RELEASE.pom
+2017-04-16 14:41:41,213 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.8.RELEASE/spring-jdbc-3.2.8.RELEASE.pom
+2017-04-16 14:41:41,656 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.8.RELEASE/spring-tx-3.2.8.RELEASE.pom
+2017-04-16 14:41:41,862 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.8.RELEASE/spring-tx-3.2.8.RELEASE.pom
+2017-04-16 14:41:42,097 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.pom
+2017-04-16 14:41:42,344 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.pom
+2017-04-16 14:41:42,549 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.4.RELEASE/spring-asm-3.1.4.RELEASE.pom
+2017-04-16 14:41:42,745 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.4.RELEASE/spring-asm-3.1.4.RELEASE.pom
+2017-04-16 14:41:42,965 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.1.4.RELEASE/spring-parent-3.1.4.RELEASE.pom
+2017-04-16 14:41:43,267 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.1.4.RELEASE/spring-parent-3.1.4.RELEASE.pom
+2017-04-16 14:41:43,479 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/3.2.8.RELEASE/spring-aspects-3.2.8.RELEASE.pom
+2017-04-16 14:41:43,721 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/3.2.8.RELEASE/spring-aspects-3.2.8.RELEASE.pom
+2017-04-16 14:41:43,930 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.pom
+2017-04-16 14:41:44,155 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.7.4/aspectjweaver-1.7.4.pom
+2017-04-16 14:41:44,368 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.9/aspectjweaver-1.6.9.pom
+2017-04-16 14:41:44,991 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.9/aspectjweaver-1.6.9.pom
+2017-04-16 14:41:45,195 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2017-04-16 14:41:45,857 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.pom
+2017-04-16 14:41:46,057 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.pom
+2017-04-16 14:41:46,251 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.pom
+2017-04-16 14:41:46,454 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.transaction/3.1.0.RELEASE/org.springframework.transaction-3.1.0.RELEASE.pom
+2017-04-16 14:41:46,457 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:41:46,459 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:41:47,279 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.web.servlet/3.1.0.RELEASE/org.springframework.web.servlet-3.1.0.RELEASE.pom
+2017-04-16 14:41:47,280 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:41:47,287 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:41:48,103 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/com.springsource.org.codehaus.groovy/1.8.8/com.springsource.org.codehaus.groovy-1.8.8.pom
+2017-04-16 14:41:48,105 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:41:48,109 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:41:48,907 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.pom
+2017-04-16 14:41:48,908 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:41:48,913 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:41:50,489 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.test/3.1.0.RELEASE/org.springframework.test-3.1.0.RELEASE.pom
+2017-04-16 14:41:50,490 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:41:50,495 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:41:51,294 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.pom
+2017-04-16 14:41:51,295 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:41:52,092 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.29/mysql-connector-java-5.1.29.jar
+2017-04-16 14:42:23,299 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.29/mysql-connector-java-5.1.29.jar
+2017-04-16 14:42:23,494 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2017-04-16 14:42:30,102 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar
+2017-04-16 14:42:30,323 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2017-04-16 14:42:32,817 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+2017-04-16 14:42:33,047 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.3/commons-pool-1.5.3.jar
+2017-04-16 14:42:35,471 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-pool/commons-pool/1.5.3/commons-pool-1.5.3.jar
+2017-04-16 14:42:35,709 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2017-04-16 14:42:40,903 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2017-04-16 14:42:41,088 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2017-04-16 14:42:42,762 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+2017-04-16 14:42:42,986 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.8.RELEASE/spring-beans-3.2.8.RELEASE.jar
+2017-04-16 14:42:52,454 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.8.RELEASE/spring-beans-3.2.8.RELEASE.jar
+2017-04-16 14:42:52,835 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.8.RELEASE/spring-context-3.2.8.RELEASE.jar
+2017-04-16 14:43:07,444 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.8.RELEASE/spring-context-3.2.8.RELEASE.jar
+2017-04-16 14:43:07,649 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.8.RELEASE/spring-core-3.2.8.RELEASE.jar
+2017-04-16 14:43:22,482 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.8.RELEASE/spring-core-3.2.8.RELEASE.jar
+2017-04-16 14:43:22,668 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.8.RELEASE/spring-jdbc-3.2.8.RELEASE.jar
+2017-04-16 14:43:32,146 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/3.2.8.RELEASE/spring-jdbc-3.2.8.RELEASE.jar
+2017-04-16 14:43:32,347 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.8.RELEASE/spring-tx-3.2.8.RELEASE.jar
+2017-04-16 14:43:37,079 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/3.2.8.RELEASE/spring-tx-3.2.8.RELEASE.jar
+2017-04-16 14:43:37,529 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.jar
+2017-04-16 14:43:56,679 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.jar
+2017-04-16 14:43:56,884 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.4.RELEASE/spring-asm-3.1.4.RELEASE.jar
+2017-04-16 14:43:58,305 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.1.4.RELEASE/spring-asm-3.1.4.RELEASE.jar
+2017-04-16 14:43:58,514 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.8.RELEASE/spring-aop-3.2.8.RELEASE.jar
+2017-04-16 14:44:06,060 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.8.RELEASE/spring-aop-3.2.8.RELEASE.jar
+2017-04-16 14:44:06,246 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2017-04-16 14:44:06,437 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2017-04-16 14:44:06,636 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/3.2.8.RELEASE/spring-aspects-3.2.8.RELEASE.jar
+2017-04-16 14:44:08,051 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aspects/3.2.8.RELEASE/spring-aspects-3.2.8.RELEASE.jar
+2017-04-16 14:44:08,318 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.9/aspectjweaver-1.6.9.jar
+2017-04-16 14:44:51,433 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjweaver/1.6.9/aspectjweaver-1.6.9.jar
+2017-04-16 14:44:51,624 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.8.RELEASE/spring-expression-3.2.8.RELEASE.jar
+2017-04-16 14:44:56,058 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.8.RELEASE/spring-expression-3.2.8.RELEASE.jar
+2017-04-16 14:44:56,259 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2017-04-16 14:45:07,909 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.16/log4j-1.2.16.jar
+2017-04-16 14:45:08,094 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.jar
+2017-04-16 14:45:20,250 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.jar
+2017-04-16 14:45:20,437 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.transaction/3.1.0.RELEASE/org.springframework.transaction-3.1.0.RELEASE.jar
+2017-04-16 14:45:21,421 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.web.servlet/3.1.0.RELEASE/org.springframework.web.servlet-3.1.0.RELEASE.jar
+2017-04-16 14:45:22,760 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/com.springsource.org.codehaus.groovy/1.8.8/com.springsource.org.codehaus.groovy-1.8.8.jar
+2017-04-16 14:45:23,556 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/cglib/com.springsource.net.sf.cglib/2.2.0/com.springsource.net.sf.cglib-2.2.0.jar
+2017-04-16 14:45:24,607 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.test/3.1.0.RELEASE/org.springframework.test-3.1.0.RELEASE.jar
+2017-04-16 14:45:25,400 [Worker-13] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aopalliance/com.springsource.org.aopalliance/1.0.0/com.springsource.org.aopalliance-1.0.0.jar
+2017-04-16 14:45:25,809 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:45:25,949 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:25,951 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:25,953 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:45:25,954 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:45:25,955 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:25,957 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:45:27,658 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:27,659 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:27,661 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:45:27,662 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:45:27,663 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:27,665 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:45:27,984 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:28,001 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 14:45:28,009 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:28,010 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 14:45:28,180 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-16 14:45:28,602 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 14:45:28,685 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:28,687 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:28,689 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:45:28,690 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:45:28,693 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:28,695 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:45:29,233 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:29,234 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:29,236 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:45:29,237 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:45:29,239 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:29,240 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:45:29,412 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-16 14:45:29,413 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-16 14:45:29,413 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-16 14:45:30,670 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:30,671 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:30,673 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:45:30,676 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:45:30,678 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:30,680 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:45:30,985 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-16 14:45:30,989 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-04-16 14:45:31,148 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:31,152 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:31,156 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:45:31,158 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:45:31,160 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:45:31,162 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:45:31,199 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:31,200 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 14:45:31,209 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:31,209 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 14:45:31,209 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 14:45:31,210 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 14:45:31,214 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:31,377 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:31,378 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 14:45:31,379 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:31,380 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 14:45:31,546 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:31,547 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 14:45:31,548 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:31,549 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 14:45:43,728 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:43,758 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 14:45:43,762 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:45:43,763 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 14:45:43,763 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 14:45:43,764 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 14:45:43,771 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:48:15,810 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-16 14:48:16,172 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 14:48:16,232 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,234 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,235 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:48:16,237 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:48:16,238 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,240 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:48:16,355 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,357 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,358 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:48:16,359 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:48:16,360 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,362 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:48:16,466 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-16 14:48:16,466 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-16 14:48:16,467 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-16 14:48:16,660 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,661 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,663 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:48:16,664 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:48:16,665 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,666 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:48:16,777 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-16 14:48:16,780 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-16 14:48:16,922 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,924 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,925 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:48:16,926 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:48:16,928 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:48:16,929 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:48:16,963 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:48:16,963 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 14:48:16,967 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:48:16,967 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 14:48:16,968 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 14:48:16,968 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 14:48:16,973 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:52:30,229 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-16 14:52:30,702 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 14:52:30,777 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:30,779 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:30,781 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:52:30,785 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:52:30,787 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:30,790 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:52:30,916 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:30,918 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:30,920 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:52:30,922 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:52:30,924 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:30,926 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:52:31,019 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-16 14:52:31,020 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-16 14:52:31,021 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-16 14:52:31,171 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:31,173 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:31,175 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:52:31,176 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:52:31,178 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:31,179 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:52:31,252 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-16 14:52:31,256 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-04-16 14:52:31,482 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:31,484 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:31,487 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 14:52:31,490 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 14:52:31,492 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 14:52:31,494 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 14:52:31,533 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:52:31,534 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 14:52:31,538 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 14:52:31,539 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 14:52:31,540 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 14:52:31,540 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 14:52:31,545 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:22:34,488 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lambda:emall-parent:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\Emall\emall-parent\pom.xml.
+2017-04-16 15:22:34,492 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lambda:emall-manager:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\Emall\emall-manager\pom.xml.
+2017-04-16 15:22:34,495 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-04-16 15:22:52,882 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-04-16 15:23:08,244 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-16 15:23:08,277 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.lambda:emall-manager:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\Emall\emall-manager\pom.xml.
+2017-04-16 15:23:08,279 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-04-16 15:23:08,301 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-16 15:23:08,460 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-04-16 15:30:40,715 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:30:44,041 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.transaction/3.1.1.RELEASE/org.springframework.transaction-3.1.1.RELEASE.pom
+2017-04-16 15:30:44,042 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:30:44,044 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:44,046 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:30:44,049 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:30:44,051 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:44,052 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:30:45,381 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.transaction/3.1.1.RELEASE/org.springframework.transaction-3.1.1.RELEASE.jar
+2017-04-16 15:30:45,486 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:30:45,488 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:45,489 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:30:45,491 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:30:45,492 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:45,494 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:30:45,574 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:30:45,575 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:30:45,576 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:30:45,576 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:30:45,577 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:30:45,577 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:30:45,580 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:30:52,965 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-16 15:30:53,293 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:30:53,351 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,353 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,355 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:30:53,356 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:30:53,358 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,362 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:30:53,507 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,509 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,510 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:30:53,512 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:30:53,513 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,515 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:30:53,674 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-16 15:30:53,674 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-16 15:30:53,675 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-16 15:30:53,829 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,831 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,833 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:30:53,835 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:30:53,837 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:53,839 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:30:53,913 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-16 15:30:53,917 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-16 15:30:54,140 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:30:54,142 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:54,143 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:30:54,145 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:30:54,147 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:30:54,148 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:30:54,183 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:30:54,184 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 15:30:54,187 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:30:54,188 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:30:54,188 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:30:54,188 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:30:54,192 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:32:01,232 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:32:01,310 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:32:01,312 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:01,314 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:32:01,316 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:32:01,318 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:01,320 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:32:01,457 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:32:01,459 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:01,460 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:32:01,462 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:32:01,463 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:01,465 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:32:01,533 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:32:01,533 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:32:01,534 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:32:01,535 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:32:01,535 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:32:01,535 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:32:01,538 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:32:26,940 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-16 15:32:27,297 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:32:27,391 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,393 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,396 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:32:27,398 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:32:27,400 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,402 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:32:27,553 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,555 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,557 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:32:27,559 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:32:27,561 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,563 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:32:27,717 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-16 15:32:27,717 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-16 15:32:27,718 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-16 15:32:27,881 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,883 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,885 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:32:27,886 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:32:27,888 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:27,889 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:32:27,961 [Worker-34] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-16 15:32:27,965 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-04-16 15:32:28,142 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:32:28,144 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:28,145 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:32:28,147 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:32:28,148 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:32:28,150 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:32:28,183 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:32:28,184 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 15:32:28,187 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:32:28,188 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:32:28,189 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:32:28,189 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:32:28,192 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:35:08,332 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:35:08,394 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:35:08,397 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:35:08,399 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:35:08,401 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:35:08,403 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:35:08,405 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:35:08,540 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:35:08,542 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:35:08,544 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:35:08,546 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:35:08,547 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:35:08,548 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:35:08,613 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:35:08,614 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:35:08,615 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:35:08,615 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:35:08,615 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:35:08,615 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:35:08,618 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:36:15,128 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,129 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,130 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:36:15,132 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:36:15,133 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,135 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:36:15,545 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:36:15,621 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,623 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,624 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:36:15,626 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:36:15,628 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,629 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:36:15,743 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,745 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,746 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:36:15,748 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:36:15,749 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:36:15,751 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:36:15,823 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:36:15,824 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:36:15,825 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:36:15,826 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:36:15,826 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:36:15,826 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:36:15,829 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:40:24,376 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:40:24,804 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:40:24,889 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:40:25,761 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.web.servlet/3.1.1.RELEASE/org.springframework.web.servlet-3.1.1.RELEASE.pom
+2017-04-16 15:40:25,763 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:40:25,764 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:40:25,765 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:40:25,766 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:40:25,768 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:40:25,769 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:40:25,770 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:40:25,771 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:40:25,772 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:40:25,773 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:40:26,847 [Worker-28] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/org.springframework.web.servlet/3.1.1.RELEASE/org.springframework.web.servlet-3.1.1.RELEASE.jar
+2017-04-16 15:40:26,954 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:40:26,955 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:40:26,957 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:40:26,959 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:40:26,961 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:40:26,962 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:40:27,044 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:40:27,045 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:40:27,048 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:40:27,048 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:40:27,049 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:40:27,049 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:40:27,052 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:41:05,936 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:41:05,938 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:41:05,939 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:41:05,941 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:41:05,943 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:41:05,945 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:41:06,367 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:41:06,427 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:41:06,429 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:41:06,431 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:41:06,432 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:41:06,434 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:41:06,437 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:41:06,553 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:41:06,555 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:41:06,556 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:41:06,558 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:41:06,559 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:41:06,561 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:41:06,634 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:41:06,634 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:41:06,651 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:41:06,652 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:41:06,652 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:41:06,652 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:41:06,657 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:46:00,711 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:46:00,717 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:46:00,719 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:46:00,721 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:46:00,723 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:46:00,725 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:46:01,122 [Worker-28] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:46:01,184 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:46:01,187 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:46:01,189 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:46:01,191 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:46:01,193 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:46:01,196 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:46:01,326 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:46:01,327 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:46:01,329 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:46:01,331 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:46:01,332 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:46:01,334 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:46:01,407 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:46:01,408 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:46:01,409 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:46:01,410 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:46:01,410 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:46:01,410 [Worker-28] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:46:01,413 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:49:24,088 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,089 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,091 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:49:24,092 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:49:24,094 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,096 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:49:24,541 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:49:24,626 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,628 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,630 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:49:24,631 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:49:24,633 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,634 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:49:24,751 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,753 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,755 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:49:24,756 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:49:24,758 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:49:24,759 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:49:24,827 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:49:24,827 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:49:24,829 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:49:24,829 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:49:24,829 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:49:24,830 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:49:24,832 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:51:20,903 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:51:20,905 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:51:20,906 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:51:20,907 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:51:20,909 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:51:20,910 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:51:21,293 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:51:21,367 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:51:21,369 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:51:21,370 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:51:21,372 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:51:21,373 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:51:21,374 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:51:21,488 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:51:21,489 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:51:21,491 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:51:21,492 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:51:21,494 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:51:21,495 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:51:21,571 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:51:21,571 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:51:21,572 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:51:21,573 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:51:21,573 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:51:21,573 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:51:21,576 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:26,082 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,084 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,085 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:26,087 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:26,088 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,089 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:26,496 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:52:26,580 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,582 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,584 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:26,586 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:26,588 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,590 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:26,692 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,693 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,695 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:26,696 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:26,697 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:26,699 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:26,777 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:26,778 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:52:26,780 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:26,780 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:52:26,780 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:52:26,781 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:52:26,784 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:28,292 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:28,294 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:28,295 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:28,297 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:28,298 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:28,299 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:28,322 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:28,323 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 15:52:28,326 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:28,326 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:52:35,539 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-16 15:52:35,864 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-16 15:52:35,915 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:35,916 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:35,918 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:35,920 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:35,922 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:35,924 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:36,051 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,053 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,055 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:36,057 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:36,059 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,061 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:36,145 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-16 15:52:36,145 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-16 15:52:36,146 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-16 15:52:36,358 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,360 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,362 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:36,364 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:36,366 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,368 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:36,463 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-16 15:52:36,467 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-16 15:52:36,771 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,773 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,775 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-16 15:52:36,778 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-16 15:52:36,780 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-16 15:52:36,782 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-16 15:52:36,816 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:36,817 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 15:52:36,821 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:52:36,822 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:52:36,823 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 15:52:36,823 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 15:52:36,827 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:53:03,932 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:53:03,933 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:53:03,935 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:53:03,936 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 15:53:03,945 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:53:03,946 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:53:03,947 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:53:03,948 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 15:53:28,906 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:53:28,907 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 15:53:28,909 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 15:53:28,910 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:00:02,308 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:00:02,312 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:00:02,314 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:00:02,316 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:00:02,317 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 16:00:02,317 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 16:00:02,325 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:00:11,102 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:00:11,103 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 16:00:11,104 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:00:11,104 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:00:21,757 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:00:21,758 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:00:21,760 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:00:21,761 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:00:21,761 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 16:00:21,762 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 16:00:21,767 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:01:51,696 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:01:51,697 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:01:51,699 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:01:51,699 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:01:59,446 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:01:59,447 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:01:59,450 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:01:59,450 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:02:14,324 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:02:14,325 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:02:14,326 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:02:14,327 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:02:30,097 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:02:30,098 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:02:30,100 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:02:30,101 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:02:43,089 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:02:43,090 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:02:43,092 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:02:43,092 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:02:43,092 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-16 16:02:43,093 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-16 16:02:43,096 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:04:19,877 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:04:19,878 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 16:04:19,880 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:04:19,881 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-16 16:04:19,881 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of eBuy
+2017-04-16 16:04:19,882 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for eBuy
+2017-04-16 16:04:19,886 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:10:54,984 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:10:54,997 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-16 16:10:55,000 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:10:55,001 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:11:12,361 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:11:12,363 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-16 16:11:12,371 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:11:12,372 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-16 16:17:40,095 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:17:40,100 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-16 16:17:40,102 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-16 16:17:40,102 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 08:25:46,785 [Worker-74] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cypergroup:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 08:25:47,266 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 08:25:47,267 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 08:25:47,269 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 08:25:47,270 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 08:25:47,270 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 08:25:47,270 [Worker-74] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 08:25:47,273 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 08:25:47,649 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 08:25:47,650 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 08:25:47,654 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 08:25:47,654 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 08:26:00,408 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 08:26:00,408 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 08:26:00,410 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 08:26:00,411 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:06:57,047 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-17 10:06:57,732 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cypergroup:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 10:06:58,762 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-17 10:06:58,763 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-17 10:06:58,763 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-17 10:07:00,782 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-17 10:07:00,790 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-04-17 10:07:01,424 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:07:01,431 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 10:07:01,440 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:07:01,440 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:07:01,441 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 10:07:01,441 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 10:07:01,450 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
