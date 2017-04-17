@@ -1025,994 +1025,92 @@ Caused by: java.io.FileNotFoundException: D:\Java\repository\org\aopalliance\com
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 14:52:31.545
 !MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:22:34.495
-!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:22:52.883
-!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:23:08.280
-!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:23:08.460
-!MESSAGE The POM for com.lambda:emall-common:jar:0.0.1-SNAPSHOT is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.042
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.044
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.047
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.049
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.051
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:44.053
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.487
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.488
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.490
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.491
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.493
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.495
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.574
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.576
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:45.580
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.351
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.353
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.355
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.356
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.360
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.362
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.507
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.509
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.510
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.512
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.514
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.515
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.829
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.831
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.833
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.835
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.837
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:53.840
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.140
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.142
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.144
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.145
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.147
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.149
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.183
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.187
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:30:54.192
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.310
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.312
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.314
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.317
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.319
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.321
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.457
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.459
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.460
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.462
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.463
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.465
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.533
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.535
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:01.539
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.391
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.393
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.396
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.398
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.400
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.403
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.554
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.555
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.557
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.559
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.561
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.563
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.882
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.883
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.885
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.887
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.888
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:27.890
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.142
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.144
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.145
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.147
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.148
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.150
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.183
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.188
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:32:28.193
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.394
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.397
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.399
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.401
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.404
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.406
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.540
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.542
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.544
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.546
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.547
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.549
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.613
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.615
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:35:08.618
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.128
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.129
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.131
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.132
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.134
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.135
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.621
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.623
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.624
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.627
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.628
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.630
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.744
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.745
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.746
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.748
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.749
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.751
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.823
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.825
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:36:15.829
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:24.376
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:24.889
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.764
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.764
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.766
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.767
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.768
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.769
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.770
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.771
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.772
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:25.774
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.954
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.956
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.958
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.959
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.961
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:26.963
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:27.044
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:27.048
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:40:27.052
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.936
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.938
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.939
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.942
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.943
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:05.945
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.428
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.429
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.431
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.433
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.435
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.437
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.553
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.555
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.556
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.558
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.559
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.561
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.634
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.651
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:41:06.657
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.711
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.717
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.719
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.721
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.723
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:00.725
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.185
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.187
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.189
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.191
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.194
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.196
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.326
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.328
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.329
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.331
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.332
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.334
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.408
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.409
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:46:01.413
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.088
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.090
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.091
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.093
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.095
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.097
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.626
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.628
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.630
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.631
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.633
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.634
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.752
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.753
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.755
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.756
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.758
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.759
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.827
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.829
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:49:24.832
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.903
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.905
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.906
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.908
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.909
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:20.911
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.367
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.369
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.370
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.372
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.373
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.374
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.488
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.489
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.491
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.492
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.494
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.495
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.571
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.572
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:51:21.576
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.082
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.084
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.085
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.087
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.088
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.090
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.580
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.582
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.584
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.586
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.588
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.590
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.692
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.693
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.695
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.696
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.698
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.699
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.778
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.780
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:26.784
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.293
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.294
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.295
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.297
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.298
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.300
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.322
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:28.326
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.915
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.917
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.918
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.920
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.922
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:35.924
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.051
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.053
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.055
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.057
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.060
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.062
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.358
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.361
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.363
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.365
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.367
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.369
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.771
-!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.773
-!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.1.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.775
-!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.778
-!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.780
-!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.782
-!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.816
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.822
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:52:36.828
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.933
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.935
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.946
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:03.947
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:28.906
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 15:53:28.909
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:02.309
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:02.316
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:02.325
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:11.102
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:11.104
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:21.757
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:21.760
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:00:21.767
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:51.696
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:51.699
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:59.447
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:01:59.450
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:14.324
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:14.326
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:30.098
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:30.101
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:43.089
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:43.092
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:02:43.096
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:04:19.878
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:04:19.880
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:04:19.886
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.core.resources 2 2 2017-04-16 16:05:36.355
-!MESSAGE Save operation warnings.
-!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-04-16 16:05:36.355
-!MESSAGE The project description file (.project) for 'emall-parent' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
-!SUBENTRY 1 org.eclipse.core.resources 2 234 2017-04-16 16:05:36.355
-!MESSAGE The project description file (.project) for 'generatorSqlmapCustom' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:10:54.984
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:10:55.000
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:11:12.362
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:11:12.371
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:17:40.096
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-16 16:17:40.102
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.266
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.269
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.273
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.650
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:25:47.654
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.jdt.core 4 1006 2017-04-17 08:25:47.732
-!MESSAGE D:\Java\repository\mysql\mysql-connector-java\5.1.29\mysql-connector-java-5.1.29.jar is not on its project's build path
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:26:00.408
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 08:26:00.411
-!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
-!SESSION 2017-04-17 09:43:23.776 -----------------------------------------------
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:28.447
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:28.449
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:29.564
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:29.569
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.core.jobs 4 2 2017-04-17 11:03:33.008
+!MESSAGE An internal error occurred during: "Decoration Calculation".
+!STACK 0
+java.lang.OutOfMemoryError: Requested array size exceeds VM limit
+	at org.eclipse.jdt.internal.compiler.util.HashtableOfObject.<init>(HashtableOfObject.java:38)
+	at org.eclipse.jdt.internal.core.index.DiskIndex.readCategoryTable(DiskIndex.java:663)
+	at org.eclipse.jdt.internal.core.index.DiskIndex.addQueryResults(DiskIndex.java:200)
+	at org.eclipse.jdt.internal.core.index.Index.query(Index.java:140)
+	at org.eclipse.jdt.internal.core.search.matching.TypeDeclarationPattern.queryIn(TypeDeclarationPattern.java:310)
+	at org.eclipse.jdt.core.search.SearchPattern.findIndexMatches(SearchPattern.java:2306)
+	at org.eclipse.jdt.internal.core.search.matching.MatchLocator.findIndexMatches(MatchLocator.java:275)
+	at org.eclipse.jdt.internal.core.search.PatternSearchJob.search(PatternSearchJob.java:109)
+	at org.eclipse.jdt.internal.core.search.PatternSearchJob.execute(PatternSearchJob.java:65)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.performConcurrentJob(JobManager.java:277)
+	at org.eclipse.jdt.internal.core.search.BasicSearchEngine.searchAllTypeNames(BasicSearchEngine.java:1136)
+	at org.eclipse.jdt.core.search.SearchEngine.searchAllTypeNames(SearchEngine.java:746)
+	at org.eclipse.jdt.internal.ui.InterfaceIndicatorLabelDecorator.addOverlaysWithSearchEngine(InterfaceIndicatorLabelDecorator.java:185)
+	at org.eclipse.jdt.internal.ui.InterfaceIndicatorLabelDecorator.addOverlays(InterfaceIndicatorLabelDecorator.java:148)
+	at org.eclipse.jdt.internal.ui.InterfaceIndicatorLabelDecorator.decorate(InterfaceIndicatorLabelDecorator.java:131)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:273)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:83)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:367)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:349)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:372)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:332)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:33.773
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:33.777
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:33.969
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:33.972
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.core.jobs 4 2 2017-04-17 11:03:34.359
+!MESSAGE An internal error occurred during: "Decoration Calculation".
+!STACK 0
+java.lang.OutOfMemoryError: Requested array size exceeds VM limit
+	at org.eclipse.jdt.internal.compiler.util.HashtableOfObject.<init>(HashtableOfObject.java:38)
+	at org.eclipse.jdt.internal.core.index.DiskIndex.readCategoryTable(DiskIndex.java:663)
+	at org.eclipse.jdt.internal.core.index.DiskIndex.addQueryResults(DiskIndex.java:200)
+	at org.eclipse.jdt.internal.core.index.Index.query(Index.java:140)
+	at org.eclipse.jdt.internal.core.search.matching.TypeDeclarationPattern.queryIn(TypeDeclarationPattern.java:310)
+	at org.eclipse.jdt.core.search.SearchPattern.findIndexMatches(SearchPattern.java:2306)
+	at org.eclipse.jdt.internal.core.search.matching.MatchLocator.findIndexMatches(MatchLocator.java:275)
+	at org.eclipse.jdt.internal.core.search.PatternSearchJob.search(PatternSearchJob.java:109)
+	at org.eclipse.jdt.internal.core.search.PatternSearchJob.execute(PatternSearchJob.java:65)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.performConcurrentJob(JobManager.java:277)
+	at org.eclipse.jdt.internal.core.search.BasicSearchEngine.searchAllTypeNames(BasicSearchEngine.java:1136)
+	at org.eclipse.jdt.core.search.SearchEngine.searchAllTypeNames(SearchEngine.java:746)
+	at org.eclipse.jdt.internal.ui.InterfaceIndicatorLabelDecorator.addOverlaysWithSearchEngine(InterfaceIndicatorLabelDecorator.java:185)
+	at org.eclipse.jdt.internal.ui.InterfaceIndicatorLabelDecorator.addOverlays(InterfaceIndicatorLabelDecorator.java:148)
+	at org.eclipse.jdt.internal.ui.InterfaceIndicatorLabelDecorator.decorate(InterfaceIndicatorLabelDecorator.java:131)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:273)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:83)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:367)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:349)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:372)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:332)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:35.218
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:35.220
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-04-17 11:03:40.358 -----------------------------------------------
 eclipse.buildId=4.5.0.I20150603-2000
 java.version=1.7.0_15
 java.vendor=Oracle Corporation
@@ -2020,18 +1118,928 @@ BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
 Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
 
-!ENTRY org.eclipse.egit.ui 2 0 2017-04-17 09:43:34.921
+!ENTRY org.eclipse.core.resources 4 4 2017-04-17 11:03:46.522
+!MESSAGE Exception loading preferences from: /baobaotao/.settings/org.eclipse.core.resources.prefs.
+!STACK 1
+org.eclipse.core.runtime.CoreException: File not found: D:\JavaWorkSpace\baobaotao\.settings\org.eclipse.core.resources.prefs.
+	at org.eclipse.core.internal.filesystem.Policy.error(Policy.java:49)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:391)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:507)
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:492)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:409)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.getChild(EclipsePreferences.java:534)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:668)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:812)
+	at org.eclipse.core.internal.resources.CharsetManager.isDerivedEncodingStoredSeparately(CharsetManager.java:373)
+	at org.eclipse.core.internal.resources.CharsetManager.getPreferences(CharsetManager.java:300)
+	at org.eclipse.core.internal.resources.CharsetManager.getCharsetFor(CharsetManager.java:284)
+	at org.eclipse.core.internal.resources.File.internalGetCharset(File.java:229)
+	at org.eclipse.core.internal.resources.File.getCharset(File.java:196)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.cacheEncodingState(ResourceTextFileBuffer.java:482)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.initializeFileBufferContent(ResourceTextFileBuffer.java:283)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:247)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:112)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:559)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.createFileInfo(CompilationUnitDocumentProvider.java:980)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.connect(CompilationUnitDocumentProvider.java:1244)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4233)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:237)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1480)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2590)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2563)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1392)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$19.run(AbstractTextEditor.java:3220)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2098)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3238)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3265)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:361)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:319)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:898)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:879)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:121)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:345)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:104)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:73)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:55)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:971)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:640)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:525)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:509)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:69)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:971)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:640)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:614)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1061)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:654)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:598)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+Caused by: java.io.FileNotFoundException: D:\JavaWorkSpace\baobaotao\.settings\org.eclipse.core.resources.prefs (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	... 154 more
+!SUBENTRY 1 org.eclipse.core.filesystem 4 271 2017-04-17 11:03:46.522
+!MESSAGE File not found: D:\JavaWorkSpace\baobaotao\.settings\org.eclipse.core.resources.prefs.
+!STACK 0
+java.io.FileNotFoundException: D:\JavaWorkSpace\baobaotao\.settings\org.eclipse.core.resources.prefs (系统找不到指定的文件。)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(Unknown Source)
+	at org.eclipse.core.internal.filesystem.local.LocalFile.openInputStream(LocalFile.java:382)
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:834)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:269)
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:507)
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:492)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:409)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.getChild(EclipsePreferences.java:534)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:668)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:812)
+	at org.eclipse.core.internal.resources.CharsetManager.isDerivedEncodingStoredSeparately(CharsetManager.java:373)
+	at org.eclipse.core.internal.resources.CharsetManager.getPreferences(CharsetManager.java:300)
+	at org.eclipse.core.internal.resources.CharsetManager.getCharsetFor(CharsetManager.java:284)
+	at org.eclipse.core.internal.resources.File.internalGetCharset(File.java:229)
+	at org.eclipse.core.internal.resources.File.getCharset(File.java:196)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.cacheEncodingState(ResourceTextFileBuffer.java:482)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.initializeFileBufferContent(ResourceTextFileBuffer.java:283)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:247)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:112)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:559)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.createFileInfo(CompilationUnitDocumentProvider.java:980)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.connect(CompilationUnitDocumentProvider.java:1244)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4233)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:237)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1480)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2590)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2563)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1392)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$19.run(AbstractTextEditor.java:3220)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2098)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3238)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3265)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:361)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:319)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:898)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:879)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:121)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:345)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:104)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:73)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:55)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:971)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:640)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:525)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:509)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:69)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:971)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:640)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:614)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1061)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:654)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:598)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.equinox.preferences 4 4 2017-04-17 11:03:46.538
+!MESSAGE Exception loading preferences from: D:/JavaWorkSpace/baobaotao/.settings/org.eclipse.core.resources.prefs.
+!STACK 0
+org.osgi.service.prefs.BackingStoreException: Exception loading preferences from: /baobaotao/.settings/org.eclipse.core.resources.prefs.
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:515)
+	at org.eclipse.core.internal.resources.ProjectPreferences.load(ProjectPreferences.java:492)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.create(EclipsePreferences.java:409)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.getChild(EclipsePreferences.java:534)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.internalNode(EclipsePreferences.java:668)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.node(EclipsePreferences.java:812)
+	at org.eclipse.core.internal.resources.CharsetManager.isDerivedEncodingStoredSeparately(CharsetManager.java:373)
+	at org.eclipse.core.internal.resources.CharsetManager.getPreferences(CharsetManager.java:300)
+	at org.eclipse.core.internal.resources.CharsetManager.getCharsetFor(CharsetManager.java:284)
+	at org.eclipse.core.internal.resources.File.internalGetCharset(File.java:229)
+	at org.eclipse.core.internal.resources.File.getCharset(File.java:196)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.cacheEncodingState(ResourceTextFileBuffer.java:482)
+	at org.eclipse.core.internal.filebuffers.ResourceTextFileBuffer.initializeFileBufferContent(ResourceTextFileBuffer.java:283)
+	at org.eclipse.core.internal.filebuffers.ResourceFileBuffer.create(ResourceFileBuffer.java:247)
+	at org.eclipse.core.internal.filebuffers.TextFileBufferManager.connect(TextFileBufferManager.java:112)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.createFileInfo(TextFileDocumentProvider.java:559)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.createFileInfo(CompilationUnitDocumentProvider.java:980)
+	at org.eclipse.ui.editors.text.TextFileDocumentProvider.connect(TextFileDocumentProvider.java:478)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitDocumentProvider.connect(CompilationUnitDocumentProvider.java:1244)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.doSetInput(AbstractTextEditor.java:4233)
+	at org.eclipse.ui.texteditor.StatusTextEditor.doSetInput(StatusTextEditor.java:237)
+	at org.eclipse.ui.texteditor.AbstractDecoratedTextEditor.doSetInput(AbstractDecoratedTextEditor.java:1480)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.internalDoSetInput(JavaEditor.java:2590)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.doSetInput(JavaEditor.java:2563)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.doSetInput(CompilationUnitEditor.java:1392)
+	at org.eclipse.ui.texteditor.AbstractTextEditor$19.run(AbstractTextEditor.java:3220)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2098)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.internalInit(AbstractTextEditor.java:3238)
+	at org.eclipse.ui.texteditor.AbstractTextEditor.init(AbstractTextEditor.java:3265)
+	at org.eclipse.ui.internal.EditorReference.initialize(EditorReference.java:361)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:319)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:898)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:879)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:121)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:345)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:104)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:73)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:55)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:971)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:640)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.StackRenderer.showTab(StackRenderer.java:1306)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$1.run(PartRenderingEngine.java:525)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:509)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:69)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:971)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:640)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:49)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:82)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer.postProcess(LazyStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.postProcess(PerspectiveStackRenderer.java:63)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SashRenderer.processContents(SashRenderer.java:151)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:71)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.processContents(WBWRenderer.java:614)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:654)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:746)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$0(PartRenderingEngine.java:717)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:711)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:695)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1061)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1018)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:654)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:337)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:598)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:139)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:380)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:235)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:669)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:608)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1515)
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-17 11:03:51.592
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 10:07:01.425
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:55.862
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:55.865
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:55.866
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:55.868
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:55.870
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:55.872
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:56.993
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:56.994
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:56.996
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:56.997
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:56.999
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.000
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.298
 !MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 10:07:01.440
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.312
 !MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 
-!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 10:07:01.450
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.321
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.605
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.608
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.610
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.612
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.615
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.617
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.656
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:03:57.658
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:25.461
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:25.462
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:25.464
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:25.465
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:25.467
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:25.468
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:26.441
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:26.443
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:26.444
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:26.445
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:26.447
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:26.448
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.222
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.224
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.225
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.227
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.228
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.230
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.731
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.733
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.734
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.736
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.738
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.740
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.783
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.792
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:04:27.796
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:05:14.281
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:05:14.286
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:09.118
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:09.121
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:09.128
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:09.761
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:09.763
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:09.770
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:45.810
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:06:45.815
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:07:27.627
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:07:27.628
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:08:53.934
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:08:53.935
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:10:49.074
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:10:49.075
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.585
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.587
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.588
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.589
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.591
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.592
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.734
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.737
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.739
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.741
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.742
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:16.744
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.020
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.021
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.023
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.024
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.026
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.028
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.400
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.401
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.403
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.404
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.406
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.408
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.433
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.437
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:17.441
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.830
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.832
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.834
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.836
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.837
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.839
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.993
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.995
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.996
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:31.998
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:32.000
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:32.001
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:32.092
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:32.093
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:32.097
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.381
+!MESSAGE The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.382
+!MESSAGE The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.384
+!MESSAGE The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.385
+!MESSAGE The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.387
+!MESSAGE The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.389
+!MESSAGE The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.421
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:13:33.425
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:14:11.419
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:14:11.420
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:14:32.592
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:14:32.594
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:15:35.150
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:15:35.152
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:16:18.268
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:16:18.271
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:18:08.850
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:18:08.853
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:24:33.037
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:24:33.041
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:25:41.381
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:25:41.384
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:25:41.389
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:26:10.752
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:26:10.756
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:26:10.761
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:58:58.258
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:58:58.259
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:59:10.506
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 11:59:10.510
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 12:00:29.483
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 12:00:29.485
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 12:00:50.633
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 12:00:50.635
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 12:03:34.403
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 12:03:34.405
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-17 12:03:34.409
 !MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!

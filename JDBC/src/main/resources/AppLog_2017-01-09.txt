@@ -1,0 +1,202 @@
+********
+* The Activity Log contains a detailed list of the steps the Evernote application performs,
+* as well as information about your account and your device. Your Note titles, tags,
+* Notebook names and occasionally Note content also may be included. We treat your
+* Activity Log data as confidential, and the terms of our Privacy Policy apply (http://evernote.com/privacy).
+*
+* You may remove anything you do not want to send us.
+********
+
+
+Log opened on 2017/01/09 23:13:23 (UTC+8:00)
+
+23:13:23 [24648] Command line: "C:\Program Files (x86)\Evernote\Evernote\Evernote.exe" 
+23:13:23 [24648] Evernote for Windows 6.4.2.3788 (303788) Public
+23:13:23 [24648] Client info: Evernote Windows/303788 (zh-CN, DDL); Windows/6.1.7601 Service Pack 1 (Win64);
+23:13:23 [24648] Common Editor: ce-1.0.29.918-develop-win (4d4613b4615395ea068d7fef3f90fa9549dda498)
+23:13:23 [24648] Bootstrap info: Evernote-China,Evernote (loadedLastUsed)
+23:13:24 [24648] Registered session count: 1, last session: 2017/01/09 23:00:00
+23:13:24 [24648] Set the service host to "app.yinxiang.com"
+23:13:25 [24648] Bootstrap info: Evernote-China,Evernote (loadedDatabase)
+23:13:25 [24648] Loaded session count: 0, last session: 2017/01/08 16:45:00
+23:13:25 [24536] 0% Connecting to app.yinxiang.com/shard/s65/utility
+23:13:25 [24832] 0% Connecting to app.yinxiang.com/shard/s65/utility
+23:13:25 [24648] Opened database: D:\Evernote\Databases\850162412#app.yinxiang.com.exb (61.5 MB Fixed 85.5 GB free)
+23:13:25 [24648] * email: 850162412@qq.com
+23:13:25 [24648] * user: 14824390
+23:13:25 [24648] Comms Engine: Initializing Engine [[0],[],"has saved state"]
+23:13:25 [24648] Comms Engine: getMessages
+23:13:25 [24648] Communication Engine client handler failed to retrieve cached events from local data store
+23:13:25 [24648] Comms Engine: placementsAvailable: []
+23:13:25 [24648] Comms Engine: processServerResponse []
+23:13:25 [24648] Comms Engine: Save state {"expireTime":1483985605718,"supportedTriggerTypes":[],"supportedPlacements":[0],"potentialMessages":[],"preparedPlacements":{},"communicationEngineUpdateId":0}
+23:13:25 [24648] Comms Engine: placementsAvailable: []
+23:13:26 [24648] Registered session count: 1, last session: 2017/01/09 23:00:00
+23:13:29 [25448] Client synchronization started
+23:13:29 [24644] 0% Connecting to app.yinxiang.com/edam/note/s65
+23:13:29 [24644] 0% Connecting account 850162412
+23:13:29 [24644] 0% Loaded updateCount: 3489
+23:13:29 [24644] 0% Usage Metrics: sessionCount=1
+23:13:29 [24644] 0% SyncState: devices used: 3
+23:13:29 [24644] 0% Client is up to date with the server, updateCount: 3489
+23:13:29 [24644] 0% Connecting account 850162412
+23:13:29 [24644] 0% Connecting account 850162412
+23:13:29 [25448] Client synchronization finished, status: complete
+23:13:30 [24648] Comms Engine: syncComplete 0
+23:13:40 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:40 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:40 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:40 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:41 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:41 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:41 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:41 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:48 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:58 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:59 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:13:59 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:02 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:03 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:07 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:08 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:08 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:10 [24648] UI: user confirmed deletion of synchronized notebook "JDBC"
+23:14:13 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:18 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:18 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:18 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:19 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:20 [24648] UI: user confirmed permanently deleting note "Dropbox - Mindly" (note list view), by accelerator
+23:14:22 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:23 [24648] UI: user confirmed permanently deleting note "Map for you" (note list view), by accelerator
+23:14:25 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:26 [24648] UI: user confirmed permanently deleting note "自学Android到什么程度才能找到工作？" (note list view), by accelerator
+23:14:27 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:28 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:32 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:33 [24648] UI: user confirmed permanently deleting note "民利更换主机" (note list view), by accelerator
+23:14:34 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:35 [24648] UI: user confirmed permanently deleting note "MYSQL思维导图备份" (note list view), by accelerator
+23:14:36 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:36 [24648] UI: user confirmed permanently deleting note "'MYSQL'思维导图备份" (note list view), by accelerator
+23:14:38 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:39 [24648] UI: user confirmed permanently deleting note "我在反思，一果多因，情商低，自以为是，自卑，孤僻" (note list view), by accelerator
+23:14:53 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:14:53 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:01 [24648] Registered session count: 1, last session: 2017/01/09 23:15:00
+23:15:01 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:04 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:04 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:05 [24648] UI: user confirmed deletion of synchronized notebook "默认笔记"
+23:15:07 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:08 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:08 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:10 [26012] 0% Syncing note "我在反思", resource count: 0
+23:15:10 [26012] 0% * guid={58925649-01B0-4533-AD1C-FAF90B257790}
+23:15:10 [26012] 0% Connecting to app.yinxiang.com/edam/note/s65
+23:15:10 [26012] 0% Updating server note "我在反思", resource count: 0
+23:15:10 [26012] 0% * guid={58925649-01b0-4533-ad1c-faf90b257790}
+23:15:11 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:12 [24648] UI: user confirmed permanently deleting note "我在反思" (note list view), by accelerator
+23:15:14 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:14 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:24 [26100] AutoUpdate: checking for update at: https://update.evernote.com/public/ENWin6/update.xml
+23:15:27 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:35 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:15:36 [26100] Received status code 200 when accessing URL https://update.evernote.com/public/ENWin6/update.xml
+23:15:36 [26100] AutoUpdate: no update found, remote revision is the same as the local revision (303788)
+23:15:37 [26100] Received status code 200 when accessing URL https://update.evernote.com/public/ENWin6/ReleaseNotes_6.4.2.3788_zh-CN.html
+23:17:24 [26548] 0% Syncing note "JDBC.mmap", resource count: 1
+23:17:24 [26548] 0% Connecting to app.yinxiang.com/edam/note/s65
+23:17:24 [26548] 0% Creating server note "JDBC.mmap", resource count: 1
+23:17:25 [26548] 0% * guid={d54be3f7-e264-4d6a-a8f5-b4a83e2de662}
+23:17:25 [26548] 0% * rsrc={311e8ed7-b075-4f23-9e49-75dfe7cfa2b4}, note={d54be3f7-e264-4d6a-a8f5-b4a83e2de662}
+23:17:27 [24060] GA: Failed to send event (error: Unknown error 0x800C0008)
+23:17:31 [26548] 0% Syncing note "JDBC.mmap", resource count: 1
+23:17:31 [26548] 0% * guid={D54BE3F7-E264-4D6A-A8F5-B4A83E2DE662}
+23:17:32 [26548] 0% Updating server note "JDBC.mmap", resource count: 1
+23:17:32 [26548] 0% * guid={d54be3f7-e264-4d6a-a8f5-b4a83e2de662}
+23:17:32 [26548] 0% * rsrc={311e8ed7-b075-4f23-9e49-75dfe7cfa2b4}, note={d54be3f7-e264-4d6a-a8f5-b4a83e2de662}
+23:18:29 [26536] Client synchronization started
+23:18:29 [26568] 0% Connecting to app.yinxiang.com/edam/note/s65
+23:18:29 [26568] 0% Connecting account 850162412
+23:18:29 [26568] 0% Loaded updateCount: 3489
+23:18:29 [26568] 0% Usage Metrics: sessionCount=1
+23:18:30 [26568] 0% SyncState: devices used: 3
+23:18:30 [26568] 0% Client updateCount: 3489, server updateCount: 3494
+23:18:30 [26568] 0% Retrieving list of changes from the server
+23:18:30 [26568] 0% * saved 1 sync chunks, updateCount=3494
+23:18:30 [26568] 0% Receiving account changes
+23:18:30 [26568] 0% * expunge 0 notebooks, 0 notes, 0 tags, 0 searches, 0 linked notebooks
+23:18:30 [26568] 0% * update 0 notebooks, 1 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+23:18:30 [26520] 0% Retrieving 1 note
+23:18:30 [26520] 0% Retrieving note "JDBC.mmap"
+23:18:30 [26520] 0% * guid={d54be3f7-e264-4d6a-a8f5-b4a83e2de662}
+23:18:30 [26568] 100% Connecting account 850162412
+23:18:30 [26568] 100% Connecting account 850162412
+23:18:30 [26568] 5% Expunging server items
+23:18:31 [26568] 5% Expunging server notebook "c16992de-d555-448d-ad31-f45f089ebc95"
+23:18:31 [26568] 10% Expunging server note "{BAA5BA2F-5167-4C62-A115-8568586F9181}"
+23:18:31 [26568] 10% Expunging server note "{08221B3F-80C7-4C36-A003-204575C5EE7D}"
+23:18:31 [26568] 10% Expunging server note "{58925649-01B0-4533-AD1C-FAF90B257790}"
+23:18:31 [26568] 10% Expunging server note "{ECCD7086-60D7-41CA-9B33-7BF2A7FF6CCA}"
+23:18:31 [26568] 10% Expunging server note "{757842AC-20FD-41A2-908E-62F0F886F4D1}"
+23:18:31 [26568] 10% Expunging server note "{9B084AB4-E0F8-4076-9A11-5733E498FD43}"
+23:18:31 [26568] 10% Expunging server note "{746EDECB-E5BC-418D-BAEC-10B79D28B092}"
+23:18:31 [26568] 10% Expunging server note "{AA1EF8D1-49A1-498A-9EF5-0B3A81EDF72B}"
+23:18:32 [26568] 95% Updating server items
+23:18:32 [26568] 95% Updating server notebook "Android"
+23:18:32 [26568] 95% * guid={87fbe788-e034-4106-a4ee-b2fdc94922aa}
+23:18:32 [26568] 100% Connecting account 850162412
+23:18:32 [26568] 100% Loaded updateCount: 3494
+23:18:33 [26568] 100% Usage Metrics: sessionCount=0
+23:18:33 [26568] 100% SyncState: devices used: 3
+23:18:33 [26568] 100% Client updateCount: 3494, server updateCount: 3509
+23:18:33 [26568] 100% Retrieving list of changes from the server
+23:18:33 [26568] 1% * saved 1 sync chunks, updateCount=3509
+23:18:33 [26568] 1% Receiving account changes
+23:18:33 [26568] 1% * expunge 1 notebooks, 8 notes, 0 tags, 0 searches, 0 linked notebooks
+23:18:33 [26568] 1% * update 2 notebooks, 0 notes, 0 resources, 0 tags, 0 searches, 0 linked notebooks
+23:18:33 [26556] 1% Expunging 1 notebook
+23:18:33 [26556] 1% Expunging 8 notes
+23:18:33 [26556] 0% Synchronizing 2 notebooks
+23:18:33 [26556] 50% Updating local notebook "《孩子你慢慢来》-龙应台"
+23:18:33 [26556] 50% * guid={EAA19907-5022-4954-BCCD-3F9CA6EC2050}
+23:18:33 [26556] 100% Updating local notebook "Android"
+23:18:33 [26556] 100% * guid={87FBE788-E034-4106-A4EE-B2FDC94922AA}
+23:18:33 [26568] 100% Connecting account 850162412
+23:18:34 [26536] Client synchronization finished, status: complete
+23:18:34 [26536] * elapsed time: 5s
+23:18:34 [26536] * 2 items received
+23:18:34 [26536] * 1 item sent
+23:18:34 [24648] Comms Engine: syncComplete 0
+23:23:34 [23748] Client synchronization started
+23:23:34 [24528] 0% Connecting to app.yinxiang.com/edam/note/s65
+23:23:34 [24528] 0% Connecting account 850162412
+23:23:34 [24528] 0% Loaded updateCount: 3509
+23:23:35 [24528] 0% Usage Metrics: sessionCount=0
+23:23:35 [24528] 0% SyncState: devices used: 3
+23:23:35 [24528] 0% Client is up to date with the server, updateCount: 3509
+23:23:35 [24528] 0% Connecting account 850162412
+23:23:35 [24528] 0% Connecting account 850162412
+23:23:35 [23748] Client synchronization finished, status: complete
+23:23:35 [23748] * elapsed time: 0s
+23:23:35 [24648] Comms Engine: syncComplete 0
+23:28:35 [27416] Client synchronization started
+23:28:35 [27428] 0% Connecting to app.yinxiang.com/edam/note/s65
+23:28:35 [27428] 0% Connecting account 850162412
+23:28:35 [27428] 0% Loaded updateCount: 3509
+23:28:36 [27428] 0% Usage Metrics: sessionCount=0
+23:28:36 [27428] 0% SyncState: devices used: 3
+23:28:36 [27428] 0% Client is up to date with the server, updateCount: 3509
+23:28:36 [27428] 0% Connecting account 850162412
+23:28:36 [27428] 0% Connecting account 850162412
+23:28:36 [27416] Client synchronization finished, status: complete
+23:28:36 [27416] * elapsed time: 0s
+23:28:36 [24648] Comms Engine: syncComplete 0
+23:30:05 [24648] Registered session count: 1, last session: 2017/01/09 23:30:00
+23:30:07 [24648] Saved session count: 1, last session: 2017/01/09 23:30:00
+23:30:07 [24648] Closed database: D:\Evernote\Databases\850162412#app.yinxiang.com.exb (59.3 MB -2.2 MB)
+
+Log closed on 2017/01/09 23:30:07 (UTC+8:00)
+

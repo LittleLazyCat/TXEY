@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestUserService" project="baobaotao" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.baobaotao.service.TestUserService" time="3.149">
+    <testcase name="hasMatchUser" classname="com.baobaotao.service.TestUserService" time="2.133"/>
+    <testcase name="test" classname="com.baobaotao.service.TestUserService" time="1.016"/>
+  </testsuite>
+</testrun>

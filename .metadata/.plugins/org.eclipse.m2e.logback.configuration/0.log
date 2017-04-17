@@ -1216,3 +1216,465 @@
 2017-04-17 10:07:01,441 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
 2017-04-17 10:07:01,441 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
 2017-04-17 10:07:01,450 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:13:58,407 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 10:13:58,484 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:13:58,486 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:13:58,488 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 10:13:58,490 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 10:13:58,492 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:13:58,494 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 10:13:59,032 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:13:59,034 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:13:59,036 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 10:13:59,038 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 10:13:59,039 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:13:59,040 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 10:13:59,278 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:13:59,280 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 10:13:59,282 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:13:59,282 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:13:59,283 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 10:13:59,283 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 10:13:59,286 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:14:00,598 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:00,605 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:00,607 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 10:14:00,609 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 10:14:00,611 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:00,613 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 10:14:00,698 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:14:00,702 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 10:14:00,714 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:14:00,715 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:14:07,597 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-17 10:14:08,021 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 10:14:08,093 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:08,094 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:08,096 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 10:14:08,097 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 10:14:08,099 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:08,100 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 10:14:08,580 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:08,582 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:08,584 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 10:14:08,585 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 10:14:08,586 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:08,588 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 10:14:08,798 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-17 10:14:08,798 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-17 10:14:08,798 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-17 10:14:09,019 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:09,021 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:09,022 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 10:14:09,024 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 10:14:09,025 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:09,026 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 10:14:09,110 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-17 10:14:09,119 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-04-17 10:14:09,461 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:09,463 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:09,464 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 10:14:09,466 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 10:14:09,468 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 10:14:09,469 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 10:14:09,509 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:14:09,510 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 10:14:09,518 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:14:09,518 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:14:09,519 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 10:14:09,519 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 10:14:09,522 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:17:53,921 [Worker-31] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestUserService references non-existing project baobaotao.
+org.eclipse.core.runtime.CoreException: Launch configuration TestUserService references non-existing project baobaotao.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2017-04-17 10:17:53,923 [Worker-31] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestUserService references non-existing project baobaotao.
+org.eclipse.core.runtime.CoreException: Launch configuration TestUserService references non-existing project baobaotao.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2017-04-17 10:17:53,926 [Worker-31] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration TestUserService references non-existing project baobaotao.
+org.eclipse.core.runtime.CoreException: Launch configuration TestUserService references non-existing project baobaotao.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.0.v20150527-0946.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:229) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2166) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.0.v20150303-1130.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:919) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2017-04-17 10:18:26,603 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cypergroup:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 10:18:28,022 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:18:28,023 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 10:18:28,035 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:18:28,036 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:18:28,353 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:18:28,357 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 10:18:28,359 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:18:28,359 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:18:37,736 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:18:37,737 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 10:18:37,738 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:18:37,739 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:31:21,621 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:31:21,623 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-17 10:31:21,626 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:31:21,627 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:33:56,670 [Worker-44] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-17 10:33:57,045 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cypergroup:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 10:33:57,741 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-17 10:33:57,741 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-17 10:33:57,742 [Worker-44] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-17 10:33:58,019 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-17 10:33:58,022 [Worker-44] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-04-17 10:33:58,379 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:33:58,380 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 10:33:58,389 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 10:33:58,390 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 10:33:58,390 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 10:33:58,390 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 10:33:58,394 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:00:56,363 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-17 11:00:56,763 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cypergroup:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 11:00:57,460 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-17 11:00:57,460 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-17 11:00:57,461 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-17 11:00:57,702 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-17 11:00:57,706 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-04-17 11:00:58,216 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:00:58,217 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:00:58,226 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:00:58,227 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:00:58,227 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 11:00:58,227 [Worker-65] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 11:00:58,230 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:01:20,816 [Worker-66] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cypergroup:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 11:01:21,600 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:01:21,602 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:01:21,604 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:01:21,604 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:01:21,605 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 11:01:21,605 [Worker-66] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 11:01:21,608 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:01:22,437 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:01:22,440 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:01:22,450 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:01:22,450 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:03:28,447 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:28,448 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:03:28,449 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:28,449 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:03:29,564 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:29,565 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:03:29,568 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:29,569 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:03:33,773 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:33,774 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:03:33,777 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:33,777 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:03:33,969 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:33,970 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:03:33,972 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:33,972 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:03:35,217 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:35,218 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:03:35,220 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:35,221 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:03:55,767 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 11:03:55,862 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:55,864 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:55,866 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:03:55,867 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:03:55,870 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:55,872 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:03:56,992 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:56,994 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:56,995 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:03:56,997 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:03:56,999 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:57,000 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:03:57,297 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:57,302 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:03:57,312 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:57,313 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:03:57,315 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 11:03:57,316 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 11:03:57,321 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:57,605 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:57,608 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:57,610 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:03:57,612 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:03:57,614 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:03:57,616 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:03:57,655 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:57,656 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:03:57,658 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:03:57,659 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:04:24,947 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-17 11:04:25,390 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 11:04:25,461 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:25,462 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:25,464 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:04:25,465 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:04:25,466 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:25,468 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:04:26,441 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:26,442 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:26,444 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:04:26,445 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:04:26,447 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:26,448 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:04:26,654 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-17 11:04:26,655 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-17 11:04:26,655 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-17 11:04:27,221 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:27,223 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:27,225 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:04:27,227 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:04:27,228 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:27,230 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:04:27,348 [Worker-15] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-17 11:04:27,354 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-04-17 11:04:27,731 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:27,733 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:27,734 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:04:27,736 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:04:27,737 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:04:27,739 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:04:27,783 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:04:27,784 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:04:27,791 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:04:27,792 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:04:27,792 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 11:04:27,792 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 11:04:27,796 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:05:14,280 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:05:14,285 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:05:14,286 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:05:14,287 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:06:09,117 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:09,118 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:06:09,121 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:09,121 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:06:09,121 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 11:06:09,121 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 11:06:09,128 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:09,759 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:09,761 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:06:09,762 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:09,763 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:06:09,764 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of eBuy
+2017-04-17 11:06:09,764 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for eBuy
+2017-04-17 11:06:09,769 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:45,810 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:45,811 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-17 11:06:45,815 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:06:45,815 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:07:27,626 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:07:27,627 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:07:27,628 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:07:27,628 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:08:53,934 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:08:53,934 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:08:53,935 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:08:53,936 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:10:49,074 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:10:49,074 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:10:49,075 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:10:49,076 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:13:16,111 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-17 11:13:16,522 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 11:13:16,585 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:16,586 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:16,588 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:13:16,589 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:13:16,591 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:16,592 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:13:16,734 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:16,736 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:16,738 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:13:16,740 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:13:16,742 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:16,744 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:13:16,846 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/main/java
+2017-04-17 11:13:16,846 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /baobaotao/src/main/resources
+2017-04-17 11:13:16,846 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /baobaotao/src/test/java
+2017-04-17 11:13:17,020 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:17,021 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:17,023 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:13:17,024 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:13:17,026 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:17,027 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:13:17,102 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for baobaotao
+2017-04-17 11:13:17,106 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-17 11:13:17,400 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:17,401 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:17,403 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:13:17,404 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:13:17,406 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:17,407 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:13:17,433 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:17,434 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:13:17,437 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:17,437 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:13:17,437 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 11:13:17,438 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 11:13:17,441 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:31,768 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.alex.spring:baobaotao:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\baobaotao\pom.xml.
+2017-04-17 11:13:31,829 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:31,832 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:31,834 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:13:31,836 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:13:31,837 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:31,838 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:13:31,993 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:31,994 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:31,996 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:13:31,998 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:13:31,999 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:32,001 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:13:32,092 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:32,092 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:13:32,093 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:32,093 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:13:32,094 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of baobaotao
+2017-04-17 11:13:32,094 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for baobaotao
+2017-04-17 11:13:32,097 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:33,381 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.transaction:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:33,382 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.web.servlet:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:33,384 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.groovy:com.springsource.org.codehaus.groovy:jar:1.8.8 is missing, no dependency information available
+2017-04-17 11:13:33,385 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for net.sourceforge.cglib:com.springsource.net.sf.cglib:jar:2.2.0 is missing, no dependency information available
+2017-04-17 11:13:33,387 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:org.springframework.test:jar:3.1.0.RELEASE is missing, no dependency information available
+2017-04-17 11:13:33,389 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.aopalliance:com.springsource.org.aopalliance:jar:1.0.0 is missing, no dependency information available
+2017-04-17 11:13:33,421 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:33,422 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:13:33,425 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:13:33,425 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:14:11,419 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:14:11,419 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:14:11,420 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:14:11,420 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:14:32,592 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:14:32,593 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:14:32,594 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:14:32,594 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:15:35,150 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:15:35,151 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:15:35,152 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:15:35,152 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:16:18,268 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:16:18,268 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:16:18,270 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:16:18,271 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:18:08,850 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:18:08,851 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:18:08,853 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:18:08,853 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 11:24:32,951 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven:JDBC:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\JDBC\pom.xml.
+2017-04-17 11:24:33,036 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:24:33,038 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:24:33,041 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:24:33,041 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\JDBC\src\test\resources
+2017-04-17 11:25:41,381 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:25:41,382 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:25:41,384 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:25:41,384 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\JDBC\src\test\resources
+2017-04-17 11:25:41,384 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JDBC
+2017-04-17 11:25:41,385 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JDBC
+2017-04-17 11:25:41,389 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:26:10,752 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:26:10,755 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 11:26:10,756 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:26:10,756 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\JDBC\src\test\resources
+2017-04-17 11:26:10,757 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JDBC
+2017-04-17 11:26:10,757 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JDBC
+2017-04-17 11:26:10,761 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:58:58,257 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:58:58,258 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 11:58:58,259 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:58:58,259 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\JDBC\src\test\resources
+2017-04-17 11:59:10,505 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:59:10,506 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-17 11:59:10,508 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 11:59:10,510 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 12:00:29,483 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 12:00:29,484 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 12:00:29,485 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 12:00:29,486 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 12:00:50,633 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 12:00:50,634 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-17 12:00:50,634 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 12:00:50,635 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\baobaotao\src\test\resources
+2017-04-17 12:03:33,695 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-04-17 12:03:34,077 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven:JDBC:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\JDBC\pom.xml.
+2017-04-17 12:03:34,115 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JDBC/src/main/java
+2017-04-17 12:03:34,115 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /JDBC/src/main/resources
+2017-04-17 12:03:34,116 [Worker-26] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JDBC/src/test/java
+2017-04-17 12:03:34,253 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JDBC
+2017-04-17 12:03:34,255 [Worker-26] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-04-17 12:03:34,403 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 12:03:34,403 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-04-17 12:03:34,405 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 12:03:34,406 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JavaWorkSpace\JDBC\src\test\resources
+2017-04-17 12:03:34,406 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JDBC
+2017-04-17 12:03:34,406 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JDBC
+2017-04-17 12:03:34,409 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2017-04-17 12:04:47,829 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-17 12:04:53,959 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWorkSpace\JDBC
+2017-04-17 12:04:53,959 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Pdependencies  -B compile

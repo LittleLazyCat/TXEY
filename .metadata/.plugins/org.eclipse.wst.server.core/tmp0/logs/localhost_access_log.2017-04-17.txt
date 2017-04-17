@@ -1,7 +1,0 @@
-127.0.0.1 - - [17/Apr/2017:10:04:59 +0800] "GET / HTTP/1.1" 404 951
-127.0.0.1 - - [17/Apr/2017:10:05:00 +0800] "GET /baobaotao/ HTTP/1.1" 200 52
-127.0.0.1 - - [17/Apr/2017:10:05:12 +0800] "GET /baobaotao/login HTTP/1.1" 404 981
-127.0.0.1 - - [17/Apr/2017:10:05:15 +0800] "GET /baobaotao/login.jsp HTTP/1.1" 404 989
-127.0.0.1 - - [17/Apr/2017:10:05:31 +0800] "GET /baobaotao/login.html HTTP/1.1" 404 949
-127.0.0.1 - - [17/Apr/2017:10:05:50 +0800] "GET /baobaotao/index.html HTTP/1.1" 200 411
-127.0.0.1 - - [17/Apr/2017:10:06:01 +0800] "POST /baobaotao/loginCheck.html HTTP/1.1" 500 16917

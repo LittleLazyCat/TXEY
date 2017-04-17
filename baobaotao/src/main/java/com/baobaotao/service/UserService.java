@@ -7,12 +7,10 @@ import com.baobaotao.dao.LoginLogDao;
 import com.baobaotao.dao.UserDao;
 import com.baobaotao.domain.LoginLog;
 import com.baobaotao.domain.User;
-
 @Service
 public class UserService {
 	@Autowired
 	private UserDao userDao;
-
 	@Autowired
 	private LoginLogDao loginLogDao;
 
@@ -24,16 +22,13 @@ public class UserService {
 	public User findUserByUserName(String userName) {
 		return userDao.findUserByUserName(userName);
 	}
-
-	public void loginSuccess(User user) {
-		user.setCredits(5 + user.getCredits());
+	public void loginSuccess(User user){
+		user.setCredits(user.getCredits()+5);
 		LoginLog loginLog = new LoginLog();
 		loginLog.setUserId(user.getUserId());
 		loginLog.setIp(user.getLastIp());
 		loginLog.setLoginDate(user.getLastVisit());
-
 		userDao.updateLoginInfo(user);
 		loginLogDao.insertLoginLog(loginLog);
-
 	}
 }

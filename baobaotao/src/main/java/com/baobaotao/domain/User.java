@@ -3,13 +3,17 @@ package com.baobaotao.domain;
 import java.io.Serializable;
 import java.util.Date;
 
-public class User implements Serializable {
-	private int userId;
-	private String userName;
-	private String password;
-	private int credits;
-	private String lastIp;
-	private Date lastVisit;
+public class User implements Serializable{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+	private int userId;		//用户Id
+	private String userName;	//用户名
+	private String password;	//密码
+	private int credits;			//积分
+	private String lastIp;		//最后登录Ip
+	private Date lastVisit;		//最后登录时间
 	public int getUserId() {
 		return userId;
 	}
@@ -46,6 +50,5 @@ public class User implements Serializable {
 	public void setLastVisit(Date lastVisit) {
 		this.lastVisit = lastVisit;
 	}
-	
 	
 }

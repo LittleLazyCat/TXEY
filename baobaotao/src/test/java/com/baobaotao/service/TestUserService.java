@@ -14,8 +14,8 @@ import com.baobaotao.domain.User;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = { "/applicationContext.xml" })
-public class TestUserService extends TestCase {
-
+public class TestUserService extends TestCase  {
+	 
 	@Autowired
 	private UserService userService;
 
@@ -41,5 +41,6 @@ public class TestUserService extends TestCase {
 		
 		userService.loginSuccess(user);
 	}
+
 
 }
