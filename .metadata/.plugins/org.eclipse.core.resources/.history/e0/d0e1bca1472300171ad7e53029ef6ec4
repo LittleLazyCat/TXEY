@@ -10,8 +10,8 @@ import com.txey.record.model.Record;
 public class RecordDao {
 	@Autowired
 	private JdbcTemplate jdbcTemplate;
-	//添加记录信息
-	public void insertRecordInfo(Record record) {
+
+	public void updateLoginInfo(Record record) {
 		StringBuilder sql = new StringBuilder();
 		sql.append("insert into tb_record_contact(jlsj,ksid,lxid,lyid,wtms,fsid,sjid, ");
 		sql.append(" wxfy,ygid,ztid,qrbz,wxbz values( ");
