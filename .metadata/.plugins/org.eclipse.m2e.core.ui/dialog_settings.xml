@@ -55,11 +55,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="TXEY"/>
 			<item value="netease"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="RecordSystem"/>
 			<item value="eBuy"/>
 		</list>
 		<list key="projectNameTemplate">

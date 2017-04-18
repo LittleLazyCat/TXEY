@@ -47,7 +47,7 @@ public class RecordDao {
 		jdbcTemplate.update(sql.toString(), record.getJlsj(), record.getDept().getKsid(), record.getKind().getLxid(),
 				record.getContact().getLyid(), record.getWtms(), record.getMethod().getFsid(),
 				record.getTime().getSjid(), record.getWxfy(), record.getEmployee().getYgid(),
-				record.getState().getZtid(), record.getQrzt(), record.getWxbz());
+				record.getState().getZtid(), record.getQrbz(), record.getWxbz());
 	}
 	
 }

@@ -10,6 +10,5 @@
 	http://www.springframework.org/schema/context/spring-context.xsd">
 
 	<import resource="application-context-mybatis.xml" /> 
-	<import resource="application-context-dao.xml" /> 
 	<import resource="application-context-service.xml" /> 	
 </beans>

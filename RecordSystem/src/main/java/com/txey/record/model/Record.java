@@ -26,8 +26,27 @@ public class Record {
 	private float wxfy;//维修费用
 	private Employee employee;//维修人员
 	private State state;//解决状态
-	private int qrzt;//确认状态（0为未解决，1为解决）
+	private int qrbz;//确认状态（0为未解决，1为解决）
 	private String wxbz;//维修备注
+	
+	public Record(){}
+	public Record( Date jlsj, Dept dept, Kind kind, Contact contact, String wtms, Method method, Time time,
+			float wxfy, Employee employee, State state, int qrbz, String wxbz) {
+		super();
+		
+		this.jlsj = jlsj;
+		this.dept = dept;
+		this.kind = kind;
+		this.contact = contact;
+		this.wtms = wtms;
+		this.method = method;
+		this.time = time;
+		this.wxfy = wxfy;
+		this.employee = employee;
+		this.state = state;
+		this.qrbz = qrbz;
+		this.wxbz = wxbz;
+	}
 	public int getJlid() {
 		return jlid;
 	}
@@ -94,11 +113,11 @@ public class Record {
 	public void setState(State state) {
 		this.state = state;
 	}
-	public int getQrzt() {
-		return qrzt;
+	public int getQrbz() {
+		return qrbz;
 	}
-	public void setQrzt(int qrzt) {
-		this.qrzt = qrzt;
+	public void setQrzt(int qrbz) {
+		this.qrbz = qrbz;
 	}
 	public String getWxbz() {
 		return wxbz;

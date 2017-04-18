@@ -1,5 +1,7 @@
 package com.txey.record.dao.mybatis;
 
+import org.springframework.stereotype.Repository;
+
 import com.txey.record.model.Record;
 
 public interface RecordMybatisDao {

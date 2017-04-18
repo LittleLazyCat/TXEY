@@ -1,0 +1,64 @@
+package com.txey.record.service;
+
+import java.util.Date;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import com.txey.record.model.Contact;
+import com.txey.record.model.Dept;
+import com.txey.record.model.Employee;
+import com.txey.record.model.Kind;
+import com.txey.record.model.Method;
+import com.txey.record.model.Record;
+import com.txey.record.model.State;
+import com.txey.record.model.Time;
+import com.txey.record.service.mybatis.RecordService;
+
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(locations = { "/application-context.xml" })
+public class TestRecordService {
+	@Autowired
+	private RecordService recordService;
+	@Autowired
+	private Contact contact;
+	@Autowired
+	private Dept dept;
+	@Autowired
+	private Employee employee;
+	@Autowired
+	private Kind kind;
+	@Autowired
+	private Method method;
+	@Autowired
+	private State state;
+	@Autowired
+	private Time time;
+	@Test
+	public void addRecord(Record record){
+		record = new Record();
+		record.setJlsj(new Date());
+		dept.setKsid(2);
+		record.setDept(dept);
+		kind.setLxid(1);
+		record.setKind(kind);
+		contact.setLyid(1);
+		record.setContact(contact);
+		record.setWtms("测试");
+		method.setFsid(1);
+		record.setMethod(method);
+		time.setSjid(1);
+		record.setTime(time);
+		record.setWxfy(100.0f);
+		employee.setYgid(5);
+		record.setEmployee(employee);
+		state.setZtid(1);
+		record.setState(state);
+		record.setQrzt(1);
+		record.setWxbz("棒棒哒");
+		recordService.addRecord(record);
+	}
+}

@@ -14,8 +14,8 @@
   	http://mybatis.org/schema/mybatis-spring.xsd
 	http://www.springframework.org/schema/context 
 	http://www.springframework.org/schema/context/spring-context.xsd">
-	
-	<context:component-scan base-package="com.txey.record.dao.mybatis" />
+	<!-- 扫描注解 -->
+	<context:component-scan base-package="com.txey.record.dao.mybatis" /> 
 	<!-- 引用数据库配置文件 -->
 	<context:property-placeholder location="classpath:db.properties" />
 	<tx:annotation-driven transaction-manager="txManager" />
@@ -32,7 +32,7 @@
 	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
 		<property name="dataSource" ref="dataSource" />
 		<property name="configLocation" value="classpath:mybatis-config.xml"></property>
-		<property name="mapperLocations" value="classpath:com/txey/record/model/mybatis/*.xml"></property>
+		
 	</bean>
 
 	<!-- 事务管理器 -->
@@ -46,9 +46,5 @@
 		<constructor-arg ref="sqlSessionFactory" />
 	</bean>
 	
-	<!-- 神奇的转换器 -->
-	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-	<constructor-arg ref="sqlSessionFactory" />
-	<property name="basePackage" value="com.txey.record.dao.mybatis"></property>
-	</bean>
+	
 </beans>
