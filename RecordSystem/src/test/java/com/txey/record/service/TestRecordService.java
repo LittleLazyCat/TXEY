@@ -2,6 +2,9 @@ package com.txey.record.service;
 
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,6 +18,7 @@ import com.txey.record.model.Employee;
 import com.txey.record.model.Kind;
 import com.txey.record.model.Method;
 import com.txey.record.model.Record;
+import com.txey.record.model.RecordDetail;
 import com.txey.record.model.State;
 import com.txey.record.model.Time;
 
@@ -66,6 +70,10 @@ public class TestRecordService {
 		HashMap<String,Integer> map = new HashMap<String,Integer>();
 		map.put("year", 2017);
 		map.put("month", 4);
-		recordService.getRecordDetail(map);
+		List<RecordDetail> list =recordService.getRecordDetail(map);
+		for(RecordDetail rd :list){
+			
+			System.out.println(rd);
+		}
 	}
 }

@@ -1,5 +1,7 @@
 package com.txey.record.model;
 
+import java.util.Date;
+
 public class RecordDetail extends Record {
 	private String ksmc;
 	private String lxmc;
@@ -8,6 +10,23 @@ public class RecordDetail extends Record {
 	private String sjmc;
 	private String ygxm;
 	private String ztmc;
+	public RecordDetail(){}
+	
+	public RecordDetail(Integer jlid,Date jlsj,String ksmc,String lxmc,String lymc,String wtms,String fsmc,String sjmc,Float wxfy,String ygxm,String ztmc,String wxbz){
+		
+		super.setJlid(jlid);
+		super.setJlsj(jlsj);
+		this.ksmc=ksmc;
+		this.lxmc=lxmc;
+		this.lymc=lymc;
+		super.setWtms(wtms);
+		this.fsmc=fsmc;
+		this.sjmc=sjmc;
+		super.setWxfy(wxfy);
+		this.ygxm=ygxm;
+		this.ztmc=ztmc;
+		super.setWxbz(wxbz);
+	}
 	public String getKsmc() {
 		return ksmc;
 	}
@@ -50,5 +69,9 @@ public class RecordDetail extends Record {
 	public void setZtmc(String ztmc) {
 		this.ztmc = ztmc;
 	}
-	
+	@Override
+	public String toString() {
+		return "RecordDetail [ksmc=" + ksmc + ", lxmc=" + lxmc + ", lymc=" + lymc + ", fsmc=" + fsmc + ", sjmc=" + sjmc
+				+ ", ygxm=" + ygxm + ", ztmc=" + ztmc + "]";
+	}
 }

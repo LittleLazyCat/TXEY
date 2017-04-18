@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.txey.record.dao.mybatis.RecordMybatisDao;
 import com.txey.record.dao.mybatis.RecordMybatisTemplateDao;
 import com.txey.record.model.Record;
 import com.txey.record.model.RecordDetail;

@@ -23,7 +23,7 @@
 			<arg column="wtms" javaType="String" />
 			<arg column="fsmc" javaType="String" />
 			<arg column="sjmc" javaType="String" />
-			<arg column="wxfy" javaType="String" />
+			<arg column="wxfy" javaType="Float" />
 			<arg column="ygxm" javaType="String" />
 			<arg column="ztmc" javaType="String" />
 			<arg column="wxbz" javaType="String" />
