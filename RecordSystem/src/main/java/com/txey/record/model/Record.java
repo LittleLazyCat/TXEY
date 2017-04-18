@@ -1,6 +1,7 @@
 package com.txey.record.model;
 
 import java.util.Date;
+import java.util.List;
 
 
 /**
@@ -28,7 +29,16 @@ public class Record {
 	private State state;//解决状态
 	private int qrbz;//确认状态（0为未解决，1为解决）
 	private String wxbz;//维修备注
-	
+	 private List<Record> records;//用于统计查询
+	public List<Record> getRecords() {
+		return records;
+	}
+	public void setRecords(List<Record> records) {
+		this.records = records;
+	}
+	public void setQrbz(int qrbz) {
+		this.qrbz = qrbz;
+	}
 	public Record(){}
 	public Record( Date jlsj, Dept dept, Kind kind, Contact contact, String wtms, Method method, Time time,
 			float wxfy, Employee employee, State state, int qrbz, String wxbz) {

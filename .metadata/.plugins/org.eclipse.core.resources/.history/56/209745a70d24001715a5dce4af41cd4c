@@ -1,0 +1,5 @@
+package com.txey.record.model;
+
+public class RecordDetail extends Record {
+
+}

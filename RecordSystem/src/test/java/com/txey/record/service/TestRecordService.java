@@ -1,7 +1,7 @@
 package com.txey.record.service;
 
 import java.util.Date;
-
+import java.util.HashMap;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -44,30 +44,28 @@ public class TestRecordService {
 		record.setJlsj(new Date());
 		dept =new Dept();
 		dept.setKsid(2);
-//		record.setDept(dept);
 		kind = new Kind();
 		kind.setLxid(1);
-//		record.setKind(kind);
 		contact = new Contact();
 		contact.setLyid(1);
-//		record.setContact(contact);
-//		record.setWtms("测试");
 		method = new Method();
 		method.setFsid(1);
-//		record.setMethod(method);
 		time = new Time();
 		time.setSjid(1);
-//		record.setTime(time);
-//		record.setWxfy(100.0f);
 		employee = new Employee();
 		employee.setYgid(5);
-//		record.setEmployee(employee);
 		state = new State();
 		state.setZtid(1);
-//		record.setState(state);
-//		record.setQrzt(1);
-//		record.setWxbz("棒棒哒");
 		record = new Record(new Date(),dept,kind,contact,"正文测试",method,time,100.0f,employee,state,1,"棒棒哒！");
 		recordService.addRecord(record);
+	}
+	
+	
+	@Test
+	public void getRecordDetail(){
+		HashMap<String,Integer> map = new HashMap<String,Integer>();
+		map.put("year", 2017);
+		map.put("month", 4);
+		recordService.getRecordDetail(map);
 	}
 }

@@ -1,0 +1,50 @@
+package com.txey.record.dao.mybatis;
+
+import java.util.Date;
+import java.util.List;
+import java.util.Map;
+
+import org.springframework.stereotype.Repository;
+
+import com.txey.record.model.Record;
+
+public interface RecordMybatisDao {
+	/**
+	 * 
+	 * 添加记录信息
+	 * 
+	 * @param record
+	 *            记录表实体
+	 * 
+	 * @return
+	 * 
+	 * @exception
+	 * 
+	 * 				@author
+	 *                Alex Jones
+	 * 
+	 * @Time 2017-04-17 22:44:01
+	 * 
+	 * 
+	 */
+	public void addRecord(Record record);
+
+	/**
+	 * 
+	 * 查询某个月具体的出勤信息
+	 * 
+	 * @param Date
+	 *            日期
+	 * 
+	 * @return List<Map<String,Object>> 返回查存到的一张表的信息
+	 * @exception
+	 * 
+	 * 				@author
+	 *                Alex Jones
+	 * 
+	 * @Time 2017-04-18 14:20:00
+	 * 
+	 * 
+	 */
+	public List<Map<String, Object>> getRecordDetail(Date date);
+}

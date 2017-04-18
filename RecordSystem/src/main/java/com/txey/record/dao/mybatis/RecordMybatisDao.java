@@ -1,8 +1,9 @@
 package com.txey.record.dao.mybatis;
 
-import org.springframework.stereotype.Repository;
-
+import java.util.HashMap;
+import java.util.List;
 import com.txey.record.model.Record;
+import com.txey.record.model.RecordDetail;
 
 public interface RecordMybatisDao {
 	/**
@@ -14,14 +15,33 @@ public interface RecordMybatisDao {
 	 * 
 	 * @return
 	 * 
-	 * @exception 
+	 * @exception
 	 * 
-	 * @author Alex Jones
+	 * 				@author
+	 *                Alex Jones
 	 * 
 	 * @Time 2017-04-17 22:44:01
 	 * 
 	 * 
 	 */
 	public void addRecord(Record record);
-	
+
+	/**
+	 * 
+	 * 查询某个月具体的出勤信息
+	 * 
+	 * @param Date
+	 *            日期
+	 * 
+	 * @return List<Map<String,Object>> 返回查存到的一张表的信息
+	 * @exception
+	 * 
+	 * 				@author
+	 *                Alex Jones
+	 * 
+	 * @Time 2017-04-18 14:20:00
+	 * 
+	 * 
+	 */
+	public List<RecordDetail> getRecordDetail(HashMap<String, Integer> hashMap);
 }
