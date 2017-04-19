@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.KindMybatisDao">
+	<select id="getKind" resultMap="KindMap">
+		SELECT lxid,lxmc,lxmcpy
+		FROM tb_record_kind
+	</select>
+	<resultMap type="Kind" id="KindMap">
+		<constructor>
+			<idArg column="lxid" javaType="int" />
+			<arg column="lxmc" javaType="String" />
+			<arg column="lxmcpy" javaType="String" />
+		</constructor>
+	</resultMap>
+</mapper>

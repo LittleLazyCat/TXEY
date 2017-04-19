@@ -49,4 +49,10 @@ public class Kind {
 	public void setLxmcpy(String lxmcpy) {
 		this.lxmcpy = lxmcpy;
 	}
+
+	@Override
+	public String toString() {
+		return "Kind [lxid=" + lxid + ", lxmc=" + lxmc + ", lxmcpy=" + lxmcpy + "]";
+	}
+	
 }

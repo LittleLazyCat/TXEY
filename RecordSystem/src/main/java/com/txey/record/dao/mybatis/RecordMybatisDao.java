@@ -33,7 +33,7 @@ public interface RecordMybatisDao {
 	 * @param hashMap
 	 *            包含年和月的信息
 	 * 
-	 * @return List<RecordDetail> 返回查存到的一张表的信息
+	 * @return List<RecordDetail> 返回查询到的一张表的信息
 	 * @exception
 	 * 
 	 * 				@author
