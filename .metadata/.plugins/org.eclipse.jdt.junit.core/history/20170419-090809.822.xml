@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRecordService.getContact" project="RecordSystem" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testcase name="getContact" classname="com.txey.record.service.TestRecordService" time="1.064"/>
+</testrun>

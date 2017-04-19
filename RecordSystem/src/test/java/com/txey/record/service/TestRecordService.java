@@ -12,6 +12,7 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import com.txey.record.dao.mybatis.ContactMybatisTemplateDao;
+import com.txey.record.dao.mybatis.DeptMybatisTemplateDao;
 import com.txey.record.dao.mybatis.RecordMybatisTemplateDao;
 import com.txey.record.model.Contact;
 import com.txey.record.model.Dept;
@@ -31,6 +32,9 @@ public class TestRecordService {
 	private RecordMybatisTemplateDao recordService;
 	@Autowired
 	private ContactMybatisTemplateDao contactService;
+	@Autowired
+	private DeptMybatisTemplateDao deptService;
+	
 
 	private Contact contact;
 
@@ -86,6 +90,15 @@ public class TestRecordService {
 		for (Contact cl : contactList) {
 
 			System.out.println(cl);
+		}
+	}
+	
+	@Test
+	public void getDept() {
+		List<Dept> deptList = deptService.getDept();
+		for (Dept dl : deptList) {
+
+			System.out.println(dl);
 		}
 	}
 }

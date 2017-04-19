@@ -69,4 +69,11 @@ public class Dept {
 	public void setHcbz(String hcbz) {
 		this.hcbz = hcbz;
 	}
+
+	@Override
+	public String toString() {
+		return "Dept [ksid=" + ksid + ", ksmc=" + ksmc + ", ksmcpy=" + ksmcpy + ", kslxid=" + kslxid + ", hcbz=" + hcbz
+				+ "]";
+	}
+	
 }

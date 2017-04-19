@@ -12,7 +12,7 @@ public interface ContactMybatisDao {
 	 * @param 
 	 *            
 	 * 
-	 * @return List<Contact>> 返回查存到的一张表的信息
+	 * @return List<Contact>> 返回联系方式信息
 	 * @exception
 	 * 
 	 * 				@author
