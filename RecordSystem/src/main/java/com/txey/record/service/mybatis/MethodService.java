@@ -6,16 +6,16 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.txey.record.dao.mybatis.DeptMybatisTemplateDao;
-import com.txey.record.model.Dept;
+import com.txey.record.dao.mybatis.MethodMybatisTemplateDao;
+import com.txey.record.model.Method;
 
 @Transactional
 @Service
-public class DeptService {
+public class MethodService {
 	@Autowired
-	private DeptMybatisTemplateDao deptMybatisTemplateDao;
-	
-	public List<Dept> getDept() {
-		return deptMybatisTemplateDao.getDept();
+	private MethodMybatisTemplateDao methodMybatisTemplateDao;
+
+	public List<Method> getMethod() {
+		return methodMybatisTemplateDao.getMethod();
 	}
 }

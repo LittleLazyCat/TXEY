@@ -26,5 +26,6 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 		<mapper resource="com/txey/record/model/mybatis/Dept.xml" />
 		<mapper resource="com/txey/record/model/mybatis/Employee.xml" />
 		<mapper resource="com/txey/record/model/mybatis/Kind.xml" />
+		<mapper resource="com/txey/record/model/mybatis/Method.xml" />
 	</mappers>
 </configuration>

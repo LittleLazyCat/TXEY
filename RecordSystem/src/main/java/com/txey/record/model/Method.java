@@ -50,4 +50,9 @@ public class Method {
 		this.fsmcpy = fsmcpy;
 	}
 
+	@Override
+	public String toString() {
+		return "Method [fsid=" + fsid + ", fsmc=" + fsmc + ", fsmcpy=" + fsmcpy + "]";
+	}
+
 }

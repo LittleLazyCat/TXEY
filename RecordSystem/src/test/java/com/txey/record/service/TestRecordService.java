@@ -2,7 +2,6 @@ package com.txey.record.service;
 
 import java.util.Date;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
 
 import org.junit.Test;
@@ -15,6 +14,7 @@ import com.txey.record.dao.mybatis.ContactMybatisTemplateDao;
 import com.txey.record.dao.mybatis.DeptMybatisTemplateDao;
 import com.txey.record.dao.mybatis.EmployeeMybatisTemplateDao;
 import com.txey.record.dao.mybatis.KindMybatisTemplateDao;
+import com.txey.record.dao.mybatis.MethodMybatisTemplateDao;
 import com.txey.record.dao.mybatis.RecordMybatisTemplateDao;
 import com.txey.record.model.Contact;
 import com.txey.record.model.Dept;
@@ -40,7 +40,8 @@ public class TestRecordService {
 	private EmployeeMybatisTemplateDao employeeService;
 	@Autowired
 	private KindMybatisTemplateDao kindService;
-	
+	@Autowired
+	private MethodMybatisTemplateDao methodService;
 	
 
 	private Contact contact;
@@ -125,6 +126,15 @@ public class TestRecordService {
 		for (Kind kl : kindList) {
 
 			System.out.println(kl);
+		}
+	}
+	
+	@Test
+	public void getMethod() {
+		List<Method> methodList = methodService.getMethod();
+		for (Method ml : methodList) {
+
+			System.out.println(ml);
 		}
 	}
 }
