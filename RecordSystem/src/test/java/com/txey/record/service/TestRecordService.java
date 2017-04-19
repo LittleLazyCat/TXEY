@@ -17,6 +17,7 @@ import com.txey.record.dao.mybatis.KindMybatisTemplateDao;
 import com.txey.record.dao.mybatis.MethodMybatisTemplateDao;
 import com.txey.record.dao.mybatis.RecordMybatisTemplateDao;
 import com.txey.record.dao.mybatis.StateMybatisTemplateDao;
+import com.txey.record.dao.mybatis.TimeMybatisTemplateDao;
 import com.txey.record.model.Contact;
 import com.txey.record.model.Dept;
 import com.txey.record.model.Employee;
@@ -45,7 +46,10 @@ public class TestRecordService {
 	private MethodMybatisTemplateDao methodService;
 	@Autowired
 	private StateMybatisTemplateDao stateService;
-
+	@Autowired
+	private TimeMybatisTemplateDao timeService;
+	
+	
 	private Contact contact;
 
 	private Dept dept;
@@ -144,6 +148,15 @@ public class TestRecordService {
 		List<State> stateList = stateService.getState();
 		for (State sl : stateList) {
 			System.out.println(sl);
+		}
+	}
+	
+	
+	@Test
+	public void getTime() {
+		List<Time> timeList = timeService.getTime();
+		for (Time tl : timeList) {
+			System.out.println(tl);
 		}
 	}
 }

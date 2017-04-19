@@ -50,4 +50,9 @@ public class Time {
 		this.sjmcpy = sjmcpy;
 	}
 
+	@Override
+	public String toString() {
+		return "Time [sjid=" + sjid + ", sjmc=" + sjmc + ", sjmcpy=" + sjmcpy + "]";
+	}
+
 }
