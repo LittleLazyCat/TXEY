@@ -80,11 +80,4 @@ public class Employee {
 	public void setPassword(String password) {
 		this.password = password;
 	}
-
-	@Override
-	public String toString() {
-		return "Employee [ygid=" + ygid + ", ygxm=" + ygxm + ", xmpy=" + xmpy + ", ksid=" + ksid + ", userName="
-				+ userName + ", password=" + password + "]";
-	}
-	
 }
