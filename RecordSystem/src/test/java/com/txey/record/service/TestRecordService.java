@@ -16,6 +16,7 @@ import com.txey.record.dao.mybatis.EmployeeMybatisTemplateDao;
 import com.txey.record.dao.mybatis.KindMybatisTemplateDao;
 import com.txey.record.dao.mybatis.MethodMybatisTemplateDao;
 import com.txey.record.dao.mybatis.RecordMybatisTemplateDao;
+import com.txey.record.dao.mybatis.StateMybatisTemplateDao;
 import com.txey.record.model.Contact;
 import com.txey.record.model.Dept;
 import com.txey.record.model.Employee;
@@ -42,7 +43,8 @@ public class TestRecordService {
 	private KindMybatisTemplateDao kindService;
 	@Autowired
 	private MethodMybatisTemplateDao methodService;
-	
+	@Autowired
+	private StateMybatisTemplateDao stateService;
 
 	private Contact contact;
 
@@ -100,7 +102,7 @@ public class TestRecordService {
 			System.out.println(cl);
 		}
 	}
-	
+
 	@Test
 	public void getDept() {
 		List<Dept> deptList = deptService.getDept();
@@ -109,8 +111,7 @@ public class TestRecordService {
 			System.out.println(dl);
 		}
 	}
-	
-	
+
 	@Test
 	public void getEmployee() {
 		List<Employee> employeeList = employeeService.getEmployee();
@@ -119,7 +120,7 @@ public class TestRecordService {
 			System.out.println(el);
 		}
 	}
-	
+
 	@Test
 	public void getKind() {
 		List<Kind> kindList = kindService.getKind();
@@ -128,13 +129,21 @@ public class TestRecordService {
 			System.out.println(kl);
 		}
 	}
-	
+
 	@Test
 	public void getMethod() {
 		List<Method> methodList = methodService.getMethod();
 		for (Method ml : methodList) {
 
 			System.out.println(ml);
+		}
+	}
+
+	@Test
+	public void getState() {
+		List<State> stateList = stateService.getState();
+		for (State sl : stateList) {
+			System.out.println(sl);
 		}
 	}
 }

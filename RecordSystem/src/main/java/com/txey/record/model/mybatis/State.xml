@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.StateMybatisDao">
+	<select id="getState" resultMap="StateMap">
+		SELECT ztid,ztmc,ztmcpy
+		FROM tb_state
+	</select>
+	<resultMap type="State" id="StateMap">
+		<constructor>
+			<idArg column="ztid" javaType="int" />
+			<arg column="ztmc" javaType="String" />
+			<arg column="ztmcpy" javaType="String" /> 
+		</constructor>
+	</resultMap>
+</mapper>

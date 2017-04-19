@@ -52,4 +52,9 @@ public class State {
 		this.ztmcpy = ztmcpy;
 	}
 
+	@Override
+	public String toString() {
+		return "State [ztid=" + ztid + ", ztmc=" + ztmc + ", ztmcpy=" + ztmcpy + "]";
+	}
+
 }
