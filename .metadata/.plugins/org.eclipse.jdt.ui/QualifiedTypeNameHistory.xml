@@ -2,8 +2,25 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="junit.framework.TestCase"/>
 <fullyQualifiedTypeName name="java.sql.DriverManager"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="com.txey.record.model.Method"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="com.txey.record.service.mybatis.RecordService"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.txey.record.model.Contact"/>
+<fullyQualifiedTypeName name="com.txey.record.model.Dept"/>
+<fullyQualifiedTypeName name="com.txey.record.model.Employee"/>
+<fullyQualifiedTypeName name="com.txey.record.model.Kind"/>
+<fullyQualifiedTypeName name="com.txey.record.model.Method"/>
+<fullyQualifiedTypeName name="com.txey.record.model.State"/>
+<fullyQualifiedTypeName name="com.txey.record.model.Time"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+<fullyQualifiedTypeName name="org.mybatis.spring.SqlSessionTemplate"/>
+<fullyQualifiedTypeName name="com.txey.record.model.Record"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.txey.record.dao.mybatis.RecordMybatisTemplateDao"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.txey.record.model.RecordDetail"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
 </qualifiedTypeNameHistroy>

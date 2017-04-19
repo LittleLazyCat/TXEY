@@ -1,21 +1,30 @@
 package com.txey.record.model;
 
-
 /**
-
-* 问题类型实体类
-
-* @author Alex Jones
-
-* @Time 2017-04-17 22:44:01
-
-*
-
-*/
+ * 
+ * 问题类型实体类
+ * 
+ * @author Alex Jones
+ * 
+ * @Time 2017-04-17 22:44:01
+ *
+ * 
+ * 
+ */
 public class Kind {
-	private int lxid;//类型ID
-	private String lxmc;//类型名称
-	private String lxmcpy;//类型名称拼音
+	private int lxid;// 类型ID
+	private String lxmc;// 类型名称
+	private String lxmcpy;// 类型名称拼音
+
+	public Kind() {
+	}
+
+	public Kind(Integer lxid, String lxmc, String lxmcpy) {
+		super();
+		this.lxid = lxid;
+		this.lxmc = lxmc;
+		this.lxmcpy = lxmcpy;
+	}
 
 	public int getLxid() {
 		return lxid;

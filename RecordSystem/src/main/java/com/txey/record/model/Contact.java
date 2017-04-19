@@ -1,21 +1,31 @@
 package com.txey.record.model;
 
-
 /**
+ * 
+ * 问题来源实体类
+ * 
+ * @author Alex Jones
+ * 
+ * @Time 2017-04-17 22:44:01
+ *
+ * 
+ * 
+ */
+public class Contact {
+	private int lyid;// 来源ID
+	private String lymc;// 来源名称
+	private String lymcpy;// 来源名称拼音
 
-* 问题来源实体类
+	public Contact() {
+	}
 
-* @author Alex Jones
+	public Contact(Integer lyid, String lymc, String lymcpy) {
+		super();
+		this.lyid = lyid;
+		this.lymc = lymc;
+		this.lymcpy = lymcpy;
+	}
 
-* @Time 2017-04-17 22:44:01
-
-*
-
-*/
-public class Contact { 
-	private int lyid;//来源ID
-	private String lymc;//来源名称
-	private String lymcpy;//来源名称拼音
 
 	public int getLyid() {
 		return lyid;
@@ -39,5 +49,10 @@ public class Contact {
 
 	public void setLymcpy(String lymcpy) {
 		this.lymcpy = lymcpy;
+	}
+	
+	@Override
+	public String toString() {
+		return "Contact [lyid=" + lyid + ", lymc=" + lymc + ", lymcpy=" + lymcpy + "]";
 	}
 }

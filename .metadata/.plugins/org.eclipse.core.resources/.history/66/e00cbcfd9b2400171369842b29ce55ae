@@ -1,0 +1,5 @@
+package com.txey.record.service.mybatis;
+
+public class ContactService {
+
+}

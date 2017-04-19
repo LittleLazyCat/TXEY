@@ -30,10 +30,10 @@ public interface RecordMybatisDao {
 	 * 
 	 * 查询某个月具体的出勤信息
 	 * 
-	 * @param Date
-	 *            日期
+	 * @param hashMap
+	 *            包含年和月的信息
 	 * 
-	 * @return List<Map<String,Object>> 返回查存到的一张表的信息
+	 * @return List<RecordDetail> 返回查存到的一张表的信息
 	 * @exception
 	 * 
 	 * 				@author

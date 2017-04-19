@@ -1,21 +1,30 @@
 package com.txey.record.model;
 
-
 /**
-
-* 修复时间实体类
-
-* @author Alex Jones
-
-* @Time 2017-04-17 22:44:01
-
-*
-
-*/
+ * 
+ * 修复时间实体类
+ * 
+ * @author Alex Jones
+ * 
+ * @Time 2017-04-17 22:44:01
+ *
+ * 
+ * 
+ */
 public class Time {
-	private int sjid;//时间ID
-	private String sjmc;//时间名称
-	private String sjmcpy;//时间名称拼音
+	private int sjid;// 时间ID
+	private String sjmc;// 时间名称
+	private String sjmcpy;// 时间名称拼音
+
+	public Time() {
+	}
+
+	public Time(Integer sjid, String sjmc, String sjmcpy) {
+		super();
+		this.sjid = sjid;
+		this.sjmc = sjmc;
+		this.sjmcpy = sjmcpy;
+	}
 
 	public int getSjid() {
 		return sjid;

@@ -1,21 +1,30 @@
 package com.txey.record.model;
 
-
 /**
-
-* 维修方式实体类
-
-* @author Alex Jones
-
-* @Time 2017-04-17 22:44:01
-
-*
-
-*/
+ * 
+ * 维修方式实体类
+ * 
+ * @author Alex Jones
+ * 
+ * @Time 2017-04-17 22:44:01
+ *
+ * 
+ * 
+ */
 public class Method {
-	private int fsid;//方式ID
-	private String fsmc;//方式名称
-	private String fsmcpy;//方式名称拼音
+	private int fsid;// 方式ID
+	private String fsmc;// 方式名称
+	private String fsmcpy;// 方式名称拼音
+
+	public Method() {
+	}
+
+	public Method(Integer fsid, String fsmc, String fsmcpy) {
+		super();
+		this.fsid = fsid;
+		this.fsmc = fsmc;
+		this.fsmcpy = fsmcpy;
+	}
 
 	public int getFsid() {
 		return fsid;
