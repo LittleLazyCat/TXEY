@@ -9,29 +9,36 @@
 	http://www.springframework.org/schema/mvc
 	http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
-	<context:component-scan base-package="com.txey.record.web.controller" />
-	<mvc:annotation-driven />
-	<mvc:default-servlet-handler />
-	
 
-	<bean
-		class="org.springframework.web.servlet.view.ContentNegotiatingViewResolver">
-		<property name="viewResolvers">
-			<list>
-				<bean id="viewResolver"
-					class="org.springframework.web.servlet.view.freemarker.FreeMarkerViewResolver">
-					<property name="cache" value="true" />
-					<property name="prefix" value="/WEB-INF/template/"  />
-					<property name="suffix" value=".ftl" /> 
-					<property name="contentType" value="text/html; charset=utf-8" />
-				</bean>
-			</list>
-		</property>
-		<property name="defaultViews">
-			<list>
-				<bean
-					class="org.springframework.web.servlet.view.json.MappingJackson2JsonView" />
-			</list>
-		</property>
+	<!-- 自动扫描的包名 -->
+	<context:component-scan base-package="com.txey.record.web.controller" />
+
+	<!-- 默认的注解映射的支持 -->
+	<mvc:annotation-driven />
+	
+	<!-- 拦截器 -->
+	<!-- <mvc:interceptors> <bean class="com.core.mvc.MyInteceptor" /> </mvc:interceptors> -->
+	<!-- 对静态资源文件的访问 方案一 （二选一） -->
+	<!-- <mvc:default-servlet-handler /> -->
+
+	<!-- 对静态资源文件的访问 方案二 （二选一） --> 
+	<mvc:resources mapping="/js/**" location="/js/" />
+	<mvc:resources mapping="/css/**" location="/css/"  />
+
+	<!-- freemarker config -->
+	<bean id="freemarkerConfig"
+		class="org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer">
+		<property name="templateLoaderPath" value="/template" />
+	</bean>
+
+
+
+	<!-- View resolvers can also be configured with ResourceBundles or XML files. 
+		If you need different view resolving based on Locale, you have to use the 
+		resource bundle resolver. -->
+	<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
+		<property name="prefix" value="/template/"/>
+		<property name="suffix" value=".jsp"/>
 	</bean>
 </beans>

@@ -21,9 +21,9 @@ public class RecordController {
 	@Autowired
 	private RecordService recordService;
 
-	@RequestMapping(value = "/index.html")
+	@RequestMapping(value = "index.html")
 	public String loginPage() {
-		return "login";
+		return "edit";
 	}
 	// @RequestMapping(value = "/addRecord", method = RequestMethod.POST)
 	// public ModelAndView loginCheck(HttpServletRequest request){
