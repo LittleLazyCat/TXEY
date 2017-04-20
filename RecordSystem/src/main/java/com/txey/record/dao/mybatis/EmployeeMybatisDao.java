@@ -23,4 +23,22 @@ public interface EmployeeMybatisDao {
 	 * 
 	 */
 	public List<Employee> getEmployee();
+	/**
+	 * 
+	 * 根据用户名查询是否存在该用户
+	 * 
+	 * @param userName
+	 *           用户名
+	 * 
+	 * @return Employee 返回员工信息
+	 * @exception
+	 * 
+	 * 				@author
+	 *                Alex Jones
+	 * 
+	 * @Time 2017-04-20 12:27:00
+	 * 
+	 * 
+	 */
+	public Employee findEmpByuserName(String userName);
 }

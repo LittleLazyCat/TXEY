@@ -18,4 +18,8 @@ public class EmployeeService {
 	public List<Employee> getEmployee() {
 		return employeeMybatisTemplateDao.getEmployee();
 	}
+
+	public Employee findEmpByuserName(String userName) {
+		return employeeMybatisTemplateDao.findEmpByuserName(userName);
+	}
 }

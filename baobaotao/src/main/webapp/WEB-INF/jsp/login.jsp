@@ -8,7 +8,7 @@
 </head>
 <body>
 <c:if test="${not empty error }">
-	<div style="color: red"><c:out value="${error }"></c:out></div>
+	<div style="color: red"><c:out value="${error}"></c:out></div>
 </c:if>
 
 <form action="<c:url value="/loginCheck.html"/>" method="post">

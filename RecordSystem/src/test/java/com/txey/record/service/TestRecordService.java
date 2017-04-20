@@ -48,8 +48,7 @@ public class TestRecordService {
 	private StateMybatisTemplateDao stateService;
 	@Autowired
 	private TimeMybatisTemplateDao timeService;
-	
-	
+
 	private Contact contact;
 
 	private Dept dept;
@@ -126,6 +125,14 @@ public class TestRecordService {
 	}
 
 	@Test
+	public void findEmpByuserName() {
+		employee = employeeService.findEmpByuserName("admin");
+
+		System.out.println(employee);
+
+	}
+
+	@Test
 	public void getKind() {
 		List<Kind> kindList = kindService.getKind();
 		for (Kind kl : kindList) {
@@ -150,8 +157,7 @@ public class TestRecordService {
 			System.out.println(sl);
 		}
 	}
-	
-	
+
 	@Test
 	public void getTime() {
 		List<Time> timeList = timeService.getTime();

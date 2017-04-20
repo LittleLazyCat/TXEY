@@ -17,4 +17,9 @@
 			<arg column="password" javaType="String" />
 		</constructor>
 	</resultMap>
+	<select id="findEmpByuserName" parameterType="String"
+	resultType="com.txey.record.model.Employee">
+		SELECT ygid,ygxm,xmpy,ksid,userName,password
+		FROM tb_employee WHERE userName = #{userName}
+	</select>
 </mapper>

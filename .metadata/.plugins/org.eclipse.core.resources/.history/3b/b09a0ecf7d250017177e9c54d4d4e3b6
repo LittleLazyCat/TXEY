@@ -1,0 +1,5 @@
+package com.txey.record.web.controller;
+
+public class RecordController {
+
+}

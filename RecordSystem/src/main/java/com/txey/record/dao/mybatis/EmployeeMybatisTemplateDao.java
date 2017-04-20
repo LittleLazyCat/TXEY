@@ -12,8 +12,16 @@ import com.txey.record.model.Employee;
 public class EmployeeMybatisTemplateDao {
 	@Autowired
 	private SqlSessionTemplate sqlSessionTemplate;
-	public List<Employee> getEmployee(){
+
+	public List<Employee> getEmployee() {
 		EmployeeMybatisDao employeeMybatisDao = sqlSessionTemplate.getMapper(EmployeeMybatisDao.class);
+
 		return employeeMybatisDao.getEmployee();
+	}
+
+	public Employee findEmpByuserName(String userName) {
+		EmployeeMybatisDao employeeMybatisDao = sqlSessionTemplate.getMapper(EmployeeMybatisDao.class);
+
+		return employeeMybatisDao.findEmpByuserName(userName);
 	}
 }

@@ -1,0 +1,13 @@
+package com.txey.record.web.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.txey.record.service.mybatis.RecordService;
+
+@RequestMapping("/record")
+public class RecordController {
+	@Autowired
+	private RecordService recordService;
+
+}
