@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.RecordMybatisDao">
+	<insert id="addRecord" parameterType="Record">
+		INSERT INTO
+		tb_record(jlsj,ksid,lxid,lyid,wtms,fsid,sjid,wxfy,ygid,ztid,qrbz,wxbz)
+		VALUES(#{jlsj},#{dept.ksid},#{kind.lxid},#{contact.lyid},#{wtms},#{method.fsid},#{time.sjid},#{wxfy},#{employee.ygid},#{state.ztid},#{qrbz},#{wxbz})
+	</insert>
+	<select id="getRecordDetail" parameterType="java.util.HashMap"
+		resultMap="RecordMap">
+		SELECT jlid,jlsj,ksmc,lxmc,lymc,wtms,fsmc,sjmc,wxfy,ygxm,ztmc,wxbz
+		FROM view_record_detail WHERE YEAR(jlsj) =#{year} AND MONTH(jlsj)=#{month}
+	</select>
+	<resultMap type="RecordDetail" id="RecordMap">
+		<constructor>
+			<idArg column="jlid" javaType="int" />
+			<arg column="jlsj" javaType="java.util.Date" />
+			<arg column="ksmc" javaType="String" />
+			<arg column="lxmc" javaType="String" />
+			<arg column="lymc" javaType="String" />
+			<arg column="wtms" javaType="String" />
+			<arg column="fsmc" javaType="String" />
+			<arg column="sjmc" javaType="String" />
+			<arg column="wxfy" javaType="Float" />
+			<arg column="ygxm" javaType="String" />
+			<arg column="ztmc" javaType="String" />
+			<arg column="wxbz" javaType="String" />
+		</constructor>
+	</resultMap>
+</mapper>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.MethodMybatisDao">
+	<select id="getMethod" resultMap="MethodMap">
+		SELECT fsid,fsmc,fsmcpy
+		FROM tb_record_method
+	</select>
+	<resultMap type="Method" id="MethodMap">
+		<constructor>
+			<idArg column="fsid" javaType="int" />
+			<arg column="fsmc" javaType="String" />
+			<arg column="fsmcpy" javaType="String" />
+		</constructor>
+	</resultMap>
+</mapper>

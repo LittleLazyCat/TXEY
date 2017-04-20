@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.DeptMybatisDao">
+	<select id="getDept" resultMap="DeptMap">
+		SELECT
+		ksid,ksmc,ksmcpy,kslxid,hcbz
+		FROM tb_dept
+	</select>
+	<resultMap type="Dept" id="DeptMap">
+		<constructor>
+			<idArg column="ksid" javaType="int" />
+			<arg column="ksmc" javaType="String" />
+			<arg column="ksmcpy" javaType="String" />
+			<arg column="kslxid" javaType="int" />
+			<arg column="hcbz" javaType="String" />
+		</constructor>
+	</resultMap>
+</mapper>

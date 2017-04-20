@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- 控制框架运行的属性信息 -->
+	<settings>
+		<setting name="lazyLoadingEnabled" value="false" />
+	</settings>
+	<!-- 定义全限定类名的别名，用于简化配置 -->
+	<typeAliases>
+		<typeAlias alias="Record" type="com.txey.record.model.Record" />
+		<typeAlias alias="Contact" type="com.txey.record.model.Contact" />
+		<typeAlias alias="Dept" type="com.txey.record.model.Dept" />
+		<typeAlias alias="Employee" type="com.txey.record.model.Employee" />
+		<typeAlias alias="Kind" type="com.txey.record.model.Kind" />
+		<typeAlias alias="Method" type="com.txey.record.model.Method" />
+		<typeAlias alias="State" type="com.txey.record.model.State" />
+		<typeAlias alias="Time" type="com.txey.record.model.Time" />
+		<typeAlias alias="RecordDetail" type="com.txey.record.model.RecordDetail" />
+	</typeAliases>
+	<!-- 引用映射文件 -->
+	<mappers>
+		<mapper resource="com/txey/record/model/mybatis/Record.xml" />
+		<mapper resource="com/txey/record/model/mybatis/Contact.xml" />
+		<mapper resource="com/txey/record/model/mybatis/Dept.xml" />
+		<mapper resource="com/txey/record/model/mybatis/Employee.xml" />
+		<mapper resource="com/txey/record/model/mybatis/Kind.xml" />
+		<mapper resource="com/txey/record/model/mybatis/Method.xml" />
+		<mapper resource="com/txey/record/model/mybatis/State.xml" />
+		<mapper resource="com/txey/record/model/mybatis/Time.xml" />
+	</mappers>
+</configuration>

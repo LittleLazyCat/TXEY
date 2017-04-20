@@ -46,9 +46,9 @@ public class LoginController {
 
 			if (user != null) {
 
-				// Éú³Éuid
+				// ï¿½ï¿½ï¿½uid
 				String token = KeyGenerator.generate();
-				// ´æÈëuid
+				// ï¿½ï¿½ï¿½ï¿½uid
 				TokenUserData.addToken(token, user);
 				Cookie haslogin = new Cookie("token", token);
 				haslogin.setMaxAge(1200);
@@ -65,14 +65,14 @@ public class LoginController {
 				req.setAttribute("user", username);
 				// resp.sendRedirect(origUrl);
 				req.getRequestDispatcher("/WEB-INF/view/loginsuccess.jsp").forward(req, resp);
-				System.out.println("µÚÒ»´ÎµÇÂ¼£¬ÎÒÒªÖ±½Óµ÷ÓÃjsp");
+				System.out.println("ï¿½ï¿½Ò»ï¿½Îµï¿½Â¼ï¿½ï¿½ï¿½ï¿½ÒªÖ±ï¿½Óµï¿½ï¿½ï¿½jsp");
 
 			} else {
-				backToLoginPage(req, resp, user, origUrl, "ÃÜÂë²»ÕýÈ·");
+				backToLoginPage(req, resp, user, origUrl, "ï¿½ï¿½ï¿½ë²»ï¿½ï¿½È·");
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
-			backToLoginPage(req, resp, user, origUrl, "·¢ÉúÏµÍ³´íÎó£¡");
+			backToLoginPage(req, resp, user, origUrl, "ï¿½ï¿½ï¿½ï¿½ÏµÍ³ï¿½ï¿½ï¿½ï¿½");
 		}
 	}
 
@@ -94,7 +94,7 @@ public class LoginController {
 
 		CookieUtil.removeCookie(resp, "token", "/", null);
 		resp.setCharacterEncoding("utf-8");
-		resp.getWriter().write("<p style='color:\"blue\"'>logout success</p>" + "<a href=\"./login\">Ê×Ò³</a>");
+		resp.getWriter().write("<p style='color:\"blue\"'>logout success</p>" + "<a href=\"./login\">ï¿½ï¿½Ò³</a>");
 	}
 
 	@RequestMapping(value = "/login_success")
@@ -119,11 +119,11 @@ public class LoginController {
 		if (!alreadylogin) {
 			response.sendRedirect(request.getContextPath() + "/login.html");
 			System.out.println("please login");
-			System.out.println("Ö±½Ó·ÃÎÊÓÃ»§Ò³Ãæ£¬µ«ÊÇÊ§°ÜÁË¡£");
+			System.out.println("Ö±ï¿½Ó·ï¿½ï¿½ï¿½ï¿½Ã»ï¿½Ò³ï¿½æ£¬ï¿½ï¿½ï¿½ï¿½Ê§ï¿½ï¿½ï¿½Ë¡ï¿½");
 		} else {
 			request.setAttribute("user", username);
 			request.getRequestDispatcher("/WEB-INF/view/loginsuccess.jsp").forward(request, response);
-			System.out.println("ÓÃ»§ÑéÖ¤Í¨¹ý£¬¼ÌÐøÏÂÃæÂß¼­");
+			System.out.println("ï¿½Ã»ï¿½ï¿½ï¿½Ö¤Í¨ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß¼ï¿½");
 		}
 	}
 
