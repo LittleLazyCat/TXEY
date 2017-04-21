@@ -9,7 +9,7 @@ window.onload = function () {
 }
 
 function init() {
-    //localStorage.clear();
+    localStorage.clear();
     var btnAdd = document.getElementById("btn_add");
     btnAdd.onclick = createNote;
     for(var i=0;i<localStorage.length;i++){
@@ -25,12 +25,12 @@ function init() {
 function changeBackground() {
 
     var bg = document.getElementById("img_background");
-    bg.src = "img/bg_"+parseInt(Math.random()*10%4)+".jpg";
-    setTimeout(changeBackground,8000);
+    bg.src = "img/bg_"+parseInt(Math.random()*10%5)+".jpg";
+    setTimeout(changeBackground,60000);
 }
 
 function createNote() {
-    var text = document.getElementById("txt_note").value;
+    var text = document.getElementById("wtms").value;
     var key = "note"+localStorage.length;
     localStorage.setItem(key,text);
     if(text == ""){alert("内容不能为空"); return;}

@@ -15,7 +15,7 @@ public class KindService {
 	@Autowired
 	private KindMybatisTemplateDao kindMybatisTemplateDao;
 
-	public List<Kind> getMethod() {
+	public List<Kind> getKind() {
 		return kindMybatisTemplateDao.getKind();
 	}
 }
