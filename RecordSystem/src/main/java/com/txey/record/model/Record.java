@@ -1,5 +1,6 @@
 package com.txey.record.model;
 
+import java.io.Serializable;
 import java.util.Date;
 import java.util.List;
 
@@ -15,7 +16,8 @@ import java.util.List;
 *
 
 */
-public class Record {
+
+public class Record  implements Serializable {
 	private int jlid;//记录ID
 	private Date jlsj;//记录时间
 	private Dept dept;//报修科室

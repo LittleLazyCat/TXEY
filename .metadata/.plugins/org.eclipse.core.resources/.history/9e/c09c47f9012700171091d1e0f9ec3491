@@ -1,0 +1,118 @@
+package com.txey.record.web.controller;
+
+import java.util.Date;
+import java.util.List;
+
+import javax.servlet.http.HttpServletRequest;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.txey.record.model.Contact;
+import com.txey.record.model.Dept;
+import com.txey.record.model.Employee;
+import com.txey.record.model.Kind;
+import com.txey.record.model.Method;
+import com.txey.record.model.Record;
+import com.txey.record.model.RecordDetail;
+import com.txey.record.model.State;
+import com.txey.record.model.Time;
+import com.txey.record.service.mybatis.ContactService;
+import com.txey.record.service.mybatis.DeptService;
+import com.txey.record.service.mybatis.EmployeeService;
+import com.txey.record.service.mybatis.KindService;
+import com.txey.record.service.mybatis.MethodService;
+import com.txey.record.service.mybatis.RecordService;
+import com.txey.record.service.mybatis.StateService;
+import com.txey.record.service.mybatis.TimeService;
+
+@Controller
+public class RecordController {
+	@Autowired
+	private ContactService contactService;
+	@Autowired
+	private DeptService deptService;
+	@Autowired
+	private EmployeeService employeeService;
+	@Autowired
+	private KindService kindService;
+	@Autowired
+	private MethodService methodService;
+	@Autowired
+	private StateService stateService;
+	@Autowired
+	private TimeService timeService;
+	@Autowired
+	private RecordService recordService;
+	@Autowired
+	private Record record;
+	@Autowired
+	private RecordDetail recordDetail;
+
+	@RequestMapping(value = "index.html")
+	public ModelAndView loginPage(HttpServletRequest request) {
+		List<Contact> contactList = contactService.getContact();
+		request.getSession().setAttribute("contactList", contactList);
+		List<Dept> deptList = deptService.getDept();
+		request.getSession().setAttribute("deptList", deptList);
+		List<Employee> employeeList = employeeService.getEmployee();
+		request.getSession().setAttribute("employeeList", employeeList);
+		List<Kind> kindList = kindService.getKind();
+		request.getSession().setAttribute("kindList", kindList);
+		List<Method> methodList = methodService.getMethod();
+		request.getSession().setAttribute("methodList", methodList);
+		List<State> stateList = stateService.getState();
+		request.getSession().setAttribute("stateList", stateList);
+		List<Time> timeList = timeService.getTime();
+		request.getSession().setAttribute("timeList", timeList);
+		return new ModelAndView("jstlTest");
+	}
+
+	@RequestMapping(value = "/addRecord.html", method = RequestMethod.POST)
+	public ModelAndView loginCheck(HttpServletRequest request) {
+		// 临时变量
+		String temp;
+		// 获得下拉菜单中的Value的值
+		temp = request.getParameter("dept");
+		// String转成int
+		int ksid = Integer.parseInt(temp);
+		// 赋值
+		record.getDept().setKsid(ksid);
+
+		temp = request.getParameter("contact");
+		int lyid = Integer.parseInt(temp);
+		record.getContact().setLyid(lyid);
+
+		temp = request.getParameter("kind");
+		int lxid = Integer.parseInt(temp);
+		record.getKind().setLxid(lxid);
+
+		temp = request.getParameter("employee");
+		int ygid = Integer.parseInt(temp);
+		record.getEmployee().setYgid(ygid);
+
+		temp = request.getParameter("method");
+		int fsid = Integer.parseInt(temp);
+		record.getMethod().setFsid(fsid);
+
+		temp = request.getParameter("time");
+		int sjid = Integer.parseInt(temp);
+		record.getTime().setSjid(sjid);
+
+		temp = request.getParameter("wtms");
+		record.setWtms(temp);
+
+		temp = request.getParameter("wxbz");
+		record.setWxbz(temp);
+		
+		record.setJlsj(new Date());
+		
+		recordService.addRecord(record);
+		
+		return new ModelAndView("jstlTest");
+
+	}
+
+}

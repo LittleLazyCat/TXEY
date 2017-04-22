@@ -1,6 +1,8 @@
 package com.txey.record.model;
 //员工
 
+import java.io.Serializable;
+
 /**
  * 
  * 员工信息实体类
@@ -12,7 +14,7 @@ package com.txey.record.model;
  * 
  * 
  */
-public class Employee {
+public class Employee  implements Serializable {
 	private int ygid;// 员工ID
 	private String ygxm;// 员工姓名
 	private String xmpy;// 姓名拼音

@@ -1,5 +1,7 @@
 package com.txey.record.model;
 
+import java.io.Serializable;
+
 //
 
 /**
@@ -13,7 +15,7 @@ package com.txey.record.model;
  * 
  * 
  */
-public class State {
+public class State  implements Serializable {
 	private int ztid;// 状态ID
 	private String ztmc;// 状态名称
 	private String ztmcpy;// 状态名称拼音

@@ -1,5 +1,7 @@
 package com.txey.record.model;
 
+import java.io.Serializable;
+
 /**
  * 
  * 问题来源实体类
@@ -11,7 +13,7 @@ package com.txey.record.model;
  * 
  * 
  */
-public class Contact {
+public class Contact implements Serializable {
 	private int lyid;// 来源ID
 	private String lymc;// 来源名称
 	private String lymcpy;// 来源名称拼音

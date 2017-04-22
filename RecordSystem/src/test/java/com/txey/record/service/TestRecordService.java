@@ -68,7 +68,7 @@ public class TestRecordService {
 		Record record = new Record();
 		record.setJlsj(new Date());
 		dept = new Dept();
-		dept.setKsid(2);
+		dept.setKsid(2); 
 		kind = new Kind();
 		kind.setLxid(1);
 		contact = new Contact();

@@ -1,5 +1,7 @@
 package com.txey.record.model;
 
+import java.io.Serializable;
+
 /**
  * 
  * 维修方式实体类
@@ -11,7 +13,7 @@ package com.txey.record.model;
  * 
  * 
  */
-public class Method {
+public class Method  implements Serializable {
 	private int fsid;// 方式ID
 	private String fsmc;// 方式名称
 	private String fsmcpy;// 方式名称拼音

@@ -1,5 +1,7 @@
 package com.txey.record.model;
 
+import java.io.Serializable;
+
 /**
  * 
  * 修复时间实体类
@@ -11,7 +13,7 @@ package com.txey.record.model;
  * 
  * 
  */
-public class Time {
+public class Time  implements Serializable {
 	private int sjid;// 时间ID
 	private String sjmc;// 时间名称
 	private String sjmcpy;// 时间名称拼音

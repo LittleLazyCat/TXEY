@@ -1,5 +1,7 @@
 package com.txey.record.model;
 
+import java.io.Serializable;
+
 /**
  * 
  * 问题类型实体类
@@ -11,7 +13,7 @@ package com.txey.record.model;
  * 
  * 
  */
-public class Kind {
+public class Kind  implements Serializable {
 	private int lxid;// 类型ID
 	private String lxmc;// 类型名称
 	private String lxmcpy;// 类型名称拼音

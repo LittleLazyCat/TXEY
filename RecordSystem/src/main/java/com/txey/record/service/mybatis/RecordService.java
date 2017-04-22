@@ -16,6 +16,14 @@ import com.txey.record.model.RecordDetail;
 public class RecordService {
 	@Autowired
 	private RecordMybatisTemplateDao recordMybatisTemplateDao;
+	
+	private Record record = new Record();
+	
+	public Record getRecord(){
+		
+		return record;
+		
+	}
 
 	public void addRecord(Record record) {
 		recordMybatisTemplateDao.addRecord(record);

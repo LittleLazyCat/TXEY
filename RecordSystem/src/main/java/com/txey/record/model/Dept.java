@@ -1,5 +1,7 @@
 package com.txey.record.model;
 
+import java.io.Serializable;
+
 /**
  * 
  * 报修科室实体类
@@ -11,7 +13,7 @@ package com.txey.record.model;
  * 
  * 
  */
-public class Dept {
+public class Dept  implements Serializable  {
 	private int ksid;// 科室ID
 	private String ksmc;// 科室名称
 	private String ksmcpy;// 科室名称拼音

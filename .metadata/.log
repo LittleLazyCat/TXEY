@@ -4159,3 +4159,29 @@ Caused by: java.io.EOFException: SSL peer shut down incorrectly
 !MESSAGE Could not delete D:\JavaWorkSpace\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps\RecordSystem\WEB-INF\lib\xpp3_min-1.1.4c.jar. May be locked by another process.
 !SUBENTRY 1 org.eclipse.wst.server.core 4 0 2017-04-20 13:44:05.162
 !MESSAGE Could not delete D:\JavaWorkSpace\.metadata\.plugins\org.eclipse.wst.server.core\tmp1\wtpwebapps\RecordSystem\WEB-INF\lib\xstream-1.4.8.jar. May be locked by another process.
+!SESSION 2017-04-22 08:37:17.409 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.7.0_15
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-04-22 08:37:19.062
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-04-22 08:37:29.224
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Administrator'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jst.jsp.core 4 4 2017-04-22 08:37:31.529
+!MESSAGE A workspace crash was detected. The previous session did not exit normally. Not using saved taglib indexes.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-22 08:37:36.844
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-22 08:37:36.855
+!MESSAGE Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
