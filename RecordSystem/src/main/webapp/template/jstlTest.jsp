@@ -167,7 +167,7 @@
 				<p>适用浏览器：360、FireFox、Chrome、Safari、Opera、傲游、搜狗、世界之窗.
 					不支持IE8及以下浏览器。</p>
 				<p>
-					来源：<a href="http://172.16.1.11:8080/" target="_blank">桐乡医院</a>
+					来源：<a href="http://172.16.1.11:8080/" target="_blank">桐乡二院</a>
 				</p>
 			</div>
 		</div>
