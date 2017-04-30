@@ -66,7 +66,7 @@ public class RecordController {
 		List<Time> timeList = timeService.getTime();
 		request.getSession().setAttribute("timeList", timeList);
 
-		return new ModelAndView("jstlTest");
+		return new ModelAndView("edit");
 	}
 
 	@RequestMapping(value = "addRecord.html", method = RequestMethod.POST)

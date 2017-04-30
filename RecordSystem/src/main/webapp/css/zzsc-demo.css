@@ -89,6 +89,8 @@ a:hover,a:focus{color:#74777b;}
 	line-height: 1.2em;
 	background-color: #c6ced8;
 	color: #535F6F;
+	font-size: large;
+	
 }
 select{
 	display: inline-block;

@@ -18,9 +18,11 @@
 	href="<%=request.getContextPath()%>/css/style.css" />
 
 <script src="<%=request.getContextPath()%>/js/note.js"></script>
+<script src="<%=request.getContextPath()%>/js/jquery-1.11.0.min.js" type="text/javascript"></script>
+<script src="<%=request.getContextPath()%>/js/tinyselect.js"></script>
 </head>
-<body> 
-	<form action="addRecord.html"  method="post">
+<body>
+	<form action="addRecord.html" method="post">
 		<div
 			style='border: 0px; padding: 3px; PADDING: 0px; width: 100%; height: 600px; LINE-HEIGHT: 20px; OVERFLOW: auto;'>
 
@@ -29,7 +31,7 @@
 					<div class="row">
 						<div class="cell">
 							<div class="desc">报修科室</div>
-							<select name="dept" style="width: 100%;">
+							<select id="dept" style="width: 100%;">
 								<c:forEach var="dept" items="${deptList}">
 									<option id="${dept.ksid}" value="${dept.ksid}">${dept.ksmc}</option>
 								</c:forEach>
@@ -37,7 +39,7 @@
 						</div>
 						<div class="cell">
 							<div class="desc">联系方式</div>
-							<select name="contact" style="width: 100%;">
+							<select id="contact" style="width: 100%;">
 								<c:forEach var="contact" items="${contactList}">
 									<option id="${contact.lyid}" value="${contact.lyid}">${contact.lymc}</option>
 								</c:forEach>
@@ -48,7 +50,7 @@
 					<div class="row">
 						<div class="cell">
 							<div class="desc">问题类型</div>
-							<select name="kind" style="width: 100%;">
+							<select id="kind" style="width: 100%;">
 								<c:forEach var="kind" items="${kindList}">
 									<option id="${kind.lxid}" value="${kind.lxid}">${kind.lxmc}</option>
 								</c:forEach>
@@ -56,7 +58,7 @@
 						</div>
 						<div class="cell">
 							<div class="desc">接收人员</div>
-							<select name="employee" style="width: 100%;">
+							<select id="employee" style="width: 100%;">
 								<c:forEach var="employee" items="${employeeList}">
 									<option id="${employee.ygid}" value="${employee.ygid}">${employee.ygxm}</option>
 								</c:forEach>
@@ -68,7 +70,7 @@
 
 						<div class="cell">
 							<div class="desc">问题来源</div>
-							<select name="method" style="width: 100%;">
+							<select id="method" style="width: 100%;">
 								<c:forEach var="method" items="${methodList}">
 									<option id="${method.fsid}" value="${method.fsid}">${method.fsmc}</option>
 								</c:forEach>
@@ -76,7 +78,7 @@
 						</div>
 						<div class="cell">
 							<div class="desc">修复时间</div>
-							<select name="time" style="width: 100%;">
+							<select id="time" style="width: 100%;">
 								<c:forEach var="time" items="${timeList}">
 									<option id="${time.sjid}" value="${time.sjid}">${time.sjmc}</option>
 								</c:forEach>
@@ -88,7 +90,7 @@
 							<div class="desc">问题情况说明</div>
 							<div class="fmitem">
 								<div class="fmipt">
-									<textarea class="u-ipt" name="wtms" rows="10"></textarea>
+									<textarea class="u-ipt" id="wtms" rows="10"></textarea>
 								</div>
 							</div>
 						</div>
@@ -96,7 +98,7 @@
 							<div class="desc">维修备注</div>
 							<div class="fmitem">
 								<div class="fmipt">
-									<textarea class="u-ipt" name="wxbz" rows="10"></textarea>
+									<textarea class="u-ipt" id="wxbz" rows="10"></textarea>
 								</div>
 							</div>
 						</div>
@@ -105,8 +107,7 @@
 			</div>
 
 
-			<script src="js/jquery-1.11.0.min.js" type="text/javascript"></script>
-			<script src="js/tinyselect.js"></script>
+
 			<script>
 				/* This parser won't respect "---" selection */
 				function dataParserA(data, selected) {
@@ -167,7 +168,7 @@
 				<p>适用浏览器：360、FireFox、Chrome、Safari、Opera、傲游、搜狗、世界之窗.
 					不支持IE8及以下浏览器。</p>
 				<p>
-					来源：<a href="http://172.16.1.11:8080/" target="_blank">桐乡医院</a>
+					来源：<a href="http://172.16.1.11:8080/" target="_blank">桐乡二院</a>
 				</p>
 			</div>
 		</div>

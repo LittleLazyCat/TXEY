@@ -1,0 +1,139 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@page isELIgnored="false"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css"
+	href="<%=request.getContextPath()%>/css/zzsc-demo.css">
+<link rel="stylesheet"
+	href="<%=request.getContextPath()%>/css/tinyselect.css">
+
+
+<script src="<%=request.getContextPath()%>/js/note.js"></script>
+<title>添加记录</title>
+</head>
+<body>
+	<div class="zzsc-container">
+		<div class="zzsc-content">
+			<div class="row">
+				<div class="cell">
+					<div class="desc">报修科室</div>
+					<select id="dept" style="width: 100%;">
+						<option value="-1">报修科室</option>
+						<c:forEach var="dept" items="${deptList}">
+							<option id="${dept.ksid}" value="${dept.ksid}">${dept.ksmc}</option>
+						</c:forEach>
+					</select>
+				</div>
+				<div class="cell">
+					<div class="desc">联系方式</div>
+					<select name="contact" style="width: 100%;">
+						<c:forEach var="contact" items="${contactList}">
+							<option id="${contact.lyid}" value="${contact.lyid}">${contact.lymc}</option>
+						</c:forEach>
+					</select>
+				</div>
+			</div>
+			<div class="row">
+				<div class="cell">
+					<div class="desc">问题类型</div>
+					<select name="kind" style="width: 100%;">
+						<c:forEach var="kind" items="${kindList}">
+							<option id="${kind.lxid}" value="${kind.lxid}">${kind.lxmc}</option>
+						</c:forEach>
+					</select>
+				</div>
+				<div class="cell">
+					<div class="desc">接收人员</div>
+					<select name="employee" style="width: 100%;">
+						<c:forEach var="employee" items="${employeeList}">
+							<option id="${employee.ygid}" value="${employee.ygid}">${employee.ygxm}</option>
+						</c:forEach>
+					</select>
+				</div>
+			</div>
+			<div class="row">
+				<div class="cell">
+					<div class="desc">Note: 插件在json数据格式不正确时会得到错误的结果。</div>
+					<select id="select4">
+						<option value="-1">---</option>
+					</select>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="<%=request.getContextPath()%>/js/jquery-1.11.0.min.js"
+		type="text/javascript"></script>
+	<script src="<%=request.getContextPath()%>/js/tinyselect.js"></script>
+	<script>
+		/* This parser won't respect "---" selection */
+		function dataParserA(data, selected) {
+			retval = [ {
+				val : "-1",
+				text : "---"
+			} ];
+
+			data.forEach(function(v) {
+				if (selected == "-1" && v.val == 3)
+					v.selected = true;
+				retval.push(v);
+			});
+
+			return retval;
+		}
+
+		/* This parser let's the component to handle selection */
+		function dataParserB(data, selected) {
+			retval = [ {
+				val : "-1",
+				text : "---"
+			} ];
+			data.forEach(function(v) {
+				retval.push(v);
+			});
+			return retval;
+		}
+
+		/* Create select elements */
+		$("#dept").tinyselect();
+		$("#contact").tinyselect({
+			showSearch : false
+		}); 
+		
+		$("#kind").tinyselect({
+			showSearch : false
+		});
+		
+		$("#employee").tinyselect({
+			showSearch : false
+		});
+		$("#select4").tinyselect({
+			dataUrl : "failure.json"
+		});
+		$("#select5").tinyselect({
+			dataUrl : "file.json",
+			dataParser : dataParserB
+		});
+
+		$("#select2").on("change", function() {
+			console.log($(this).val());
+		});
+
+		$("#havoc").show()
+	</script>
+
+	<div
+		style="text-align: center; margin: 50px 0; font: normal 14px/24px 'MicroSoft YaHei';">
+		<p>适用浏览器：360、FireFox、Chrome、Safari、Opera、傲游、搜狗、世界之窗. 不支持IE8及以下浏览器。</p>
+		<p>
+			来源：<a href="http://sc.chinaz.com/" target="_blank">站长素材</a>
+		</p>
+	</div>
+
+</body>
+</html>

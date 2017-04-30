@@ -1,0 +1,4 @@
+jdbc.driverClassName= com.mysql.jdbc.Driver
+jdbc.url1= jdbc:mysql://localhost:3306/xxk?useUnicode=true&characterEncoding=utf8
+jdbc.username1=root
+jdbc.password1=qwert1234
