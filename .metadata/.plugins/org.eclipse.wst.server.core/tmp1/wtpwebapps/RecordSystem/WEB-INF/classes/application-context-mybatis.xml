@@ -17,7 +17,10 @@
 	<!-- 扫描注解 -->
 	<context:component-scan base-package="com.txey.record.dao.mybatis" /> 
 	<!-- 引用数据库配置文件 -->
-	<context:property-placeholder location="classpath:db.properties" />
+	<bean class="com.txey.record.placeholder.EncryptPropertyPlaceholderConfigure">
+	<property name="location" value="classpath:db.properties"/>
+	</bean>
+	
 	<tx:annotation-driven transaction-manager="txManager" />
 	<!-- 数据源配置 -->
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource"
