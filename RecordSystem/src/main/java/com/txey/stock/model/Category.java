@@ -26,7 +26,7 @@ public class Category implements Serializable {
 		super();
 	}
 
-	public Category(Integer clid, Kind kindF, String clmc, String cldw, String cljs, String clpy, float clje) {
+	public Category(Integer clid, Kind kind, String clmc, String cldw, String cljs, String clpy, float clje) {
 		super();
 		this.clid = clid;
 		this.kind = kind;

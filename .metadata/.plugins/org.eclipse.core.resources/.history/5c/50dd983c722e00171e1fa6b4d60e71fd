@@ -1,0 +1,28 @@
+package com.txey.record.utils;
+
+import java.security.Key;
+
+import javax.crypto.KeyGenerator;
+
+public class DESUtils {
+	//指定DES加密解密所使用的秘钥
+	private static Key key;
+	private static String KEY_STR="myKey";
+	
+	static{
+		try{
+			KeyGenerator generator = KeyGenerator.getInstance("DES");
+			
+		}catch(Exception e){
+			throw new RuntimeException(e);
+		}
+		
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
