@@ -33,6 +33,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/Java/repository/sun/misc/BASE64Decoder/1.0.0/sun.misc.BASE64Decoder.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
