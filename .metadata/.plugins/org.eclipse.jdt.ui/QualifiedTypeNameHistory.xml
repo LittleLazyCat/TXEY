@@ -30,4 +30,17 @@
 <fullyQualifiedTypeName name="com.txey.record.model.Employee"/>
 <fullyQualifiedTypeName name="com.txey.record.dao.mybatis.EmployeeMybatisTemplateDao"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="java.security.Key"/>
+<fullyQualifiedTypeName name="javax.crypto.KeyGenerator"/>
+<fullyQualifiedTypeName name="java.security.SecureRandom"/>
+<fullyQualifiedTypeName name="net.iharder.Base64"/>
+<fullyQualifiedTypeName name="Decoder.BASE64Encoder"/>
+<fullyQualifiedTypeName name="javax.management.RuntimeErrorException"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="javax.crypto.Cipher"/>
+<fullyQualifiedTypeName name="Decoder.BASE64Decoder"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.txey.record.utils.DESUtils"/>
+<fullyQualifiedTypeName name="com.thoughtworks.xstream.core.util.Base64Encoder"/>
+<fullyQualifiedTypeName name="org.apache.commons.codec.binary.Base64"/>
 </qualifiedTypeNameHistroy>

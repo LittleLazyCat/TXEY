@@ -1,40 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item value="D:\base64-2.3.8.jar" key="org.eclipse.jdt.ui.lastuserlibrary"/>
+	<item value="480,578" key="UserLibraryLoadSaveDialog.size"/>
+	<item value="D:\Java\repository\commons-codec\commons-codec\1.9" key="org.eclipse.jdt.ui.lastextjar"/>
 	<section name="OptionalMessageDialog.hide.">
 		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
 	</section>
 	<section name="SourceActionDialog.constructors">
-		<item value="1" key="VisibilityModifier"/>
 		<item value="false" key="Comments"/>
+		<item value="1" key="VisibilityModifier"/>
 		<item value="false" key="SynchronizedModifier"/>
 		<item value="false" key="FinalModifier"/>
 	</section>
 	<section name="DialogBounds_GenerateToStringDialog">
 		<item value="516" key="DIALOG_WIDTH"/>
 		<item value="8" key="DIALOG_Y_ORIGIN"/>
-		<item value="728" key="DIALOG_HEIGHT"/>
 		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="728" key="DIALOG_HEIGHT"/>
 		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|微软雅黑" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="GenerateConstructorUsingFieldsSelectionDialog">
 		<item value="false" key="OmitCallToSuper"/>
 	</section>
 	<section name="BuildPathsPropertyPage">
-		<item value="3" key="pageIndex"/>
+		<item value="2" key="pageIndex"/>
 	</section>
 	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item value="8" key="index"/>
 	</section>
 	<section name="SourceActionDialog.methods">
 		<item value="false" key="SkipNull"/>
 		<item value="10" key="LimitValue"/>
-		<item value="0" key="ToStringTemplateSelected"/>
-		<item value="0" key="StringStyle"/>
-		<item value="false" key="Comments"/>
 		<item value="1" key="VisibilityModifier"/>
+		<item value="false" key="Comments"/>
+		<item value="0" key="StringStyle"/>
+		<item value="0" key="ToStringTemplateSelected"/>
 		<item value="false" key="LimitElements"/>
 		<item value="false" key="SynchronizedModifier"/>
-		<item value="true" key="IgnoreDefault"/>
 		<item value="false" key="FinalModifier"/>
+		<item value="true" key="IgnoreDefault"/>
 	</section>
 	<section name="ProblemSeveritiesConfigurationBlock">
 		<item value="false" key="expanded4"/>
@@ -51,15 +57,18 @@
 		<item value="false" key="expanded1"/>
 		<item value="true" key="expanded0"/>
 	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
 	<section name="org.eclipse.jdt.internal.ui.dialogs.FilteredTypesSelectionDialog">
 		<item value="true" key="ShowStatusLine"/>
 		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History/&gt;" key="History"/>
 		<section name="DialogBoundsSettings">
-			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="286" key="DIALOG_WIDTH"/>
 			<item value="4" key="DIALOG_Y_ORIGIN"/>
-			<item value="500" key="DIALOG_HEIGHT"/>
 			<item value="-14" key="DIALOG_X_ORIGIN"/>
-			<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|微软雅黑" key="DIALOG_FONT_NAME"/>
+			<item value="568" key="DIALOG_HEIGHT"/>
+			<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
 		</section>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
@@ -76,8 +85,8 @@
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
 		<item value="587" key="DIALOG_WIDTH"/>
 		<item value="8" key="DIALOG_Y_ORIGIN"/>
-		<item value="728" key="DIALOG_HEIGHT"/>
 		<item value="398" key="DIALOG_X_ORIGIN"/>
+		<item value="728" key="DIALOG_HEIGHT"/>
 		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|微软雅黑" key="DIALOG_FONT_NAME"/>
 	</section>
 	<section name="NewClassWizardPage">
@@ -91,8 +100,8 @@
 	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
 		<item value="574" key="DIALOG_WIDTH"/>
 		<item value="8" key="DIALOG_Y_ORIGIN"/>
-		<item value="404" key="DIALOG_X_ORIGIN"/>
 		<item value="728" key="DIALOG_HEIGHT"/>
+		<item value="404" key="DIALOG_X_ORIGIN"/>
 		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|微软雅黑" key="DIALOG_FONT_NAME"/>
 	</section>
 </section>

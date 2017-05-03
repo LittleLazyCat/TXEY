@@ -3384,3 +3384,288 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestUserService ref
 2017-04-30 12:38:32,064 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-04-30 12:38:32,065 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-04-30 12:38:32,066 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 12:41:59,488 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 12:41:59,493 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-04-30 12:41:59,500 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 12:41:59,500 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 13:29:39,148 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-30 13:29:44,377 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWorkSpace\RecordSystem
+2017-04-30 13:29:44,378 [Worker-102] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2017-04-30 13:32:49,116 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-04-30 13:32:49,999 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:32:49,999 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 13:32:50,000 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:32:50,000 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 13:32:50,000 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-04-30 13:32:50,000 [Worker-102] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-04-30 13:32:50,004 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:32:51,399 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:32:51,400 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-04-30 13:32:51,408 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:32:51,408 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 13:33:29,924 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:33:29,924 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 13:33:29,926 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:33:29,926 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 13:37:56,269 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:37:56,269 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-04-30 13:37:56,272 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:37:56,273 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 13:38:55,501 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:38:55,502 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-04-30 13:38:55,503 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-30 13:38:55,503 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-04-30 13:40:23,558 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-30 13:40:28,321 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWorkSpace\RecordSystem
+2017-04-30 13:40:28,321 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2017-04-30 13:58:45,119 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-30 13:58:51,507 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWorkSpace\RecordSystem
+2017-04-30 13:58:51,507 [Worker-116] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2017-04-30 13:59:00,006 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-04-30 13:59:04,016 [Worker-109] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\JavaWorkSpace\RecordSystem
+2017-04-30 13:59:04,016 [Worker-109] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B package
+2017-05-01 19:54:40,825 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 19:54:40,825 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 19:54:40,826 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 19:54:40,826 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:05:13,409 [Worker-145] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-05-01 22:05:17,402 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/sun/misc/BASE64Decoder/1.0.0/BASE64Decoder-1.0.0.pom
+2017-05-01 22:05:17,405 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for sun.misc:BASE64Decoder:jar:1.0.0 is missing, no dependency information available
+2017-05-01 22:05:21,437 [Worker-145] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/sun/misc/BASE64Decoder/1.0.0/BASE64Decoder-1.0.0.jar
+2017-05-01 22:05:22,203 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for sun.misc:BASE64Decoder:jar:1.0.0 is missing, no dependency information available
+2017-05-01 22:05:22,384 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:05:22,384 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:05:22,386 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:05:22,386 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:05:22,386 [Worker-145] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-05-01 22:05:22,386 [Worker-145] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-05-01 22:05:22,390 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:05:24,052 [Worker-145] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for sun.misc:BASE64Decoder:jar:1.0.0 is missing, no dependency information available
+2017-05-01 22:05:24,139 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:05:24,140 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:05:24,141 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:05:24,141 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:05:24,376 [Worker-166] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-01 22:05:25,426 [Worker-166] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-05-01 22:05:25,853 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for sun.misc:BASE64Decoder:jar:1.0.0 is missing, no dependency information available
+2017-05-01 22:05:27,598 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for sun.misc:BASE64Decoder:jar:1.0.0 is missing, no dependency information available
+2017-05-01 22:05:27,780 [Worker-166] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/main/java
+2017-05-01 22:05:27,780 [Worker-166] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/main/resources
+2017-05-01 22:05:27,780 [Worker-166] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/test/java
+2017-05-01 22:05:27,780 [Worker-166] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/test/resources
+2017-05-01 22:05:28,370 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for sun.misc:BASE64Decoder:jar:1.0.0 is missing, no dependency information available
+2017-05-01 22:05:28,706 [Worker-166] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RecordSystem
+2017-05-01 22:05:28,719 [Worker-166] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2017-05-01 22:05:31,112 [Worker-168] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for sun.misc:BASE64Decoder:jar:1.0.0 is missing, no dependency information available
+2017-05-01 22:05:31,208 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:05:31,209 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:05:31,222 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:05:31,222 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:05:31,223 [Worker-168] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-05-01 22:05:31,223 [Worker-168] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-05-01 22:05:31,228 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:04,592 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:04,592 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:07:04,594 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:04,594 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:07:13,032 [Worker-165] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-05-01 22:07:14,330 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:14,330 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:07:14,333 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:14,334 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:07:14,334 [Worker-165] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-05-01 22:07:14,334 [Worker-165] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-05-01 22:07:14,343 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:15,408 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:15,409 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:07:15,420 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:15,420 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:07:23,462 [Worker-168] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-01 22:07:24,464 [Worker-168] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-05-01 22:07:25,771 [Worker-168] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/main/java
+2017-05-01 22:07:25,771 [Worker-168] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/main/resources
+2017-05-01 22:07:25,771 [Worker-168] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/test/java
+2017-05-01 22:07:25,771 [Worker-168] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/test/resources
+2017-05-01 22:07:26,688 [Worker-168] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RecordSystem
+2017-05-01 22:07:26,704 [Worker-168] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-05-01 22:07:29,294 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:29,294 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:07:29,303 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:07:29,303 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:07:29,304 [Worker-170] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-05-01 22:07:29,304 [Worker-170] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-05-01 22:07:29,307 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:09:09,847 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:09:09,848 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:09:09,850 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:09:09,851 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:09:25,193 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:09:25,194 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:09:25,197 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:09:25,197 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:09:33,881 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:09:33,882 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:09:33,885 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:09:33,885 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:16:54,409 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:16:54,410 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:16:54,412 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:16:54,412 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:18:40,872 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:18:40,873 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:18:40,875 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:18:40,876 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:25:47,430 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:25:47,431 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:25:47,433 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:25:47,433 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:28:16,892 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:28:16,893 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:28:16,896 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:28:16,896 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:31:46,433 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:31:46,433 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:31:46,436 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:31:46,437 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:34:01,999 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:34:01,999 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 22:34:02,002 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:34:02,002 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:36:13,671 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:36:13,672 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:36:13,674 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:36:13,674 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:45:46,561 [Worker-178] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-05-01 22:45:48,349 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:48,350 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:45:48,352 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:48,352 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:45:48,353 [Worker-178] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-05-01 22:45:48,353 [Worker-178] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-05-01 22:45:48,357 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:49,468 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:49,469 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:45:49,478 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:45:49,478 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 22:49:27,254 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:49:27,254 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 22:49:27,257 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 22:49:27,257 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:00:13,679 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:00:13,680 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:00:13,682 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:00:13,682 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:02:01,986 [Worker-182] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-01 23:02:03,011 [Worker-182] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-05-01 23:02:04,363 [Worker-182] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/main/java
+2017-05-01 23:02:04,363 [Worker-182] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/main/resources
+2017-05-01 23:02:04,364 [Worker-182] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/test/java
+2017-05-01 23:02:04,364 [Worker-182] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/test/resources
+2017-05-01 23:02:05,395 [Worker-182] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RecordSystem
+2017-05-01 23:02:05,419 [Worker-182] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-05-01 23:02:08,097 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:02:08,098 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:02:08,106 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:02:08,107 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:02:08,107 [Worker-193] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-05-01 23:02:08,107 [Worker-193] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-05-01 23:02:08,112 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:07:51,696 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:07:51,697 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:07:51,700 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:07:51,700 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:09:23,864 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:09:23,864 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:09:23,867 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:09:23,867 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:10:24,497 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:10:24,498 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:10:24,500 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:10:24,500 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:10:57,327 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:10:57,328 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:10:57,331 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:10:57,331 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:15:01,130 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:15:01,131 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:15:01,135 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:15:01,135 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:20:35,558 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:20:35,559 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:20:35,562 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:20:35,562 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:20:53,748 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:20:53,748 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:20:53,751 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:20:53,752 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:22:06,360 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:22:06,361 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:22:06,364 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:22:06,364 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:24:20,804 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:24:20,805 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:24:20,808 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:24:20,808 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:25:15,039 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:25:15,040 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-01 23:25:15,045 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:25:15,046 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:25:47,574 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:25:47,574 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:25:47,577 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:25:47,578 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:26:21,960 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:26:21,960 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-05-01 23:26:21,965 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:26:21,965 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:27:14,241 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:27:14,241 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:27:14,245 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:27:14,246 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:27:35,631 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:27:35,631 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:27:35,635 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:27:35,635 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:28:11,536 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:28:11,536 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:28:11,539 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:28:11,539 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:28:50,164 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:28:50,165 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:28:50,170 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:28:50,170 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:29:16,831 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:29:16,832 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:29:16,835 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:29:16,835 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:32:42,466 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:32:42,467 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:32:42,469 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:32:42,469 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:33:05,951 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:33:05,951 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-01 23:33:05,954 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:33:05,954 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:33:39,826 [Worker-209] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-01 23:33:40,882 [Worker-209] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: TXEY:RecordSystem:0.0.1-SNAPSHOT @ D:\JavaWorkSpace\RecordSystem\pom.xml.
+2017-05-01 23:33:42,193 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/main/java
+2017-05-01 23:33:42,193 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/main/resources
+2017-05-01 23:33:42,193 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RecordSystem/src/test/java
+2017-05-01 23:33:42,193 [Worker-209] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /RecordSystem/src/test/resources
+2017-05-01 23:33:43,136 [Worker-209] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for RecordSystem
+2017-05-01 23:33:43,152 [Worker-209] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-05-01 23:33:45,939 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:33:45,940 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:33:45,948 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:33:45,948 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-01 23:33:45,948 [Worker-216] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of RecordSystem
+2017-05-01 23:33:45,948 [Worker-216] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for RecordSystem
+2017-05-01 23:33:45,953 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:34:43,930 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:34:43,931 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-01 23:34:43,934 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-01 23:34:43,935 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-03 12:14:34,362 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 12:14:34,381 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2017-05-03 12:14:34,397 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-03 12:14:34,398 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
