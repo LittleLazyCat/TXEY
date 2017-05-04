@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="UserXMapper">
+	
+    <cache type="org.mybatis.caches.ehcache.LoggingEhcache"/>
+	
+	<update id="setSKIN" parameterType="PageData" flushCache="false">
+		update sys_user set 
+		skin = #{skin} 
+		where login_name = #{loginName}
+	</update>
+	
+	<!-- 存入IP -->
+	<update id="saveIP" parameterType="PageData" flushCache="false">
+		update sys_user 
+			set 
+				ip = #{ip}
+			where 
+				login_name = #{loginName}
+	</update>
+	
+	<!-- 更新登录时间 -->
+	<update id="updateLastLogin" parameterType="PageData" flushCache="false">
+		update sys_user set 
+		last_login = #{lastLogin} 
+		where user_id = #{userId}
+	</update>
+	
+</mapper>

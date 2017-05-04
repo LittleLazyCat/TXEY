@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="CreditMapper">
+	<sql id="creditColumns">
+		 select id,
+		 user_id,
+		 cr_type,
+		 cr_amount,
+		 cr_status,
+		 disposal_type,
+		 commision_range,
+		 contact_name,
+		 contact_number,
+		 debt_name,
+		 debt_province,
+		 debt_city,
+		 debt_phone,
+		 debt_proof,
+		 description,
+		 create_date,
+		 end_date,
+		 open_date,
+		 agreed_date,
+		 credit_type,
+		 is_audit,
+		 signed_path,
+		 legal_service_path,
+		 deal_team_name,
+		 dept_type
+	</sql>
+
+	<resultMap type="Credit" id="CreditResultMap">
+		<id column="id" property="id"/>
+		<result column="user_id" property="userId"/>
+		<result column="cr_type" property="crType"/>
+		<result column="cr_amount" property="crAmount"/>
+		<result column="cr_status" property="crStatus"/>
+		<result column="disposal_type" property="disposalType"/>
+		<result column="commision_range" property="commisionRange"/>
+		<result column="contact_name" property="contactName"/>
+		<result column="contact_number" property="contactNumber"/>
+		<result column="debt_name" property="debtName"/>
+		<result column="debt_province" property="debtProvince"/>
+	    <result column="debt_city" property="debtCity"/>
+		<result column="debt_phone" property="debtPhone"/>
+		<result column="debt_proof" property="debtProof"/>
+		<result column="description" property="description"/>
+		<result column="create_date" property="createDate"/>
+		<result column="end_date" property="endDate"/>
+		<result column="open_date" property="openDate"/>
+		<result column="agreed_date" property="agreedDate"/>
+		<result column="credit_type" property="creditType"/>
+		<result column="is_audit" property="isAudit"/>
+		<result column="signed_path" property="signedPath" />
+		<result column="legal_service_path" property="legalServicePath" />
+		<result column="deal_team_name" property="dealTeamName" />
+		<result column="dept_type" property="deptType" />
+	</resultMap>
+    
+    <!-- 根据id获取债权信息 -->
+	<select id="findById" parameterType="PageData" resultType="Credit" useCache="false">
+	   <include refid="creditColumns"></include>
+		from cr_credit 
+		where id = #{id}
+	</select>
+	
+	
+   <select id="count" parameterType="PageData" resultType="int">
+		select count(1)
+		from cr_credit u
+		where cr_status!=-1
+		<if test="userId != null and userId != ''">
+		and user_id=#{userId}
+		</if>
+		<if test="crStatus != null and crStatus != ''">
+		and cr_status=#{crStatus}
+		</if>
+		<if test="createTime != null and createTime != ''">
+		and create_date <![CDATA[>=]]>#{createTime}
+		</if>
+		<if test="crType != null and crType != ''">
+		and cr_type=#{crType}
+		</if>
+		<if test="creditType != null and creditType != ''">
+		and credit_type=#{creditType}
+		</if>
+		<if test="keyword != null and keyword != ''">
+	  	and	CONCAT(IFNULL(u.contact_name,''),IFNULL(u.debt_name,'')) like #{keyword}
+		</if>
+	</select>
+	
+	<select id="list" parameterType="PageData" resultType="Credit">
+	   <include refid="creditColumns"></include>
+		 from cr_credit u
+		where cr_status!=-1
+		<if test="userId != null and userId != ''">
+		and user_id=#{userId}
+		</if>
+		<if test="crStatus != null and crStatus != ''">
+		and cr_status=#{crStatus}
+		</if>
+		<if test="createTime != null and createTime != ''">
+		and create_date <![CDATA[>=]]>#{createTime}
+		</if>
+		<if test="crType != null and crType != ''">
+		and cr_type=#{crType}
+		</if>
+		<if test="creditType != null and creditType != ''">
+		and credit_type=#{creditType}
+		</if>
+		<if test="keyword != null and keyword != ''">
+        and	CONCAT(IFNULL(u.contact_name,''),IFNULL(u.debt_name,'')) like #{keyword}
+		</if>
+		order by u.id desc
+		limit #{from},#{size}
+	</select>
+	
+	
+	<insert id="save" parameterType="credit">
+		insert into cr_credit (
+			 user_id,
+			 cr_type,
+			 cr_amount,
+			 cr_status,
+			 disposal_type,
+			 commision_range,
+			 contact_name,
+			 contact_number,
+			 dept_type,
+			 debt_name,
+			 debt_province,
+			 debt_city,
+			 debt_phone,
+			 debt_proof,
+			 description,
+			 create_date,
+			 end_date,
+			 open_date,
+			 agreed_date,
+			 credit_type,
+			 is_audit
+		) values (
+			#{userId},
+			#{crType},
+			#{crAmount},
+			#{crStatus},
+			#{disposalType},
+			#{commisionRange},
+			#{contactName},
+			#{contactNumber},
+			#{deptType},
+			#{debtName},
+			#{debtProvince},
+			#{debtCity},
+			#{debtPhone},
+			#{debtProof},
+			#{description},
+			#{createDate},
+			#{endDate},
+			#{openDate},
+			#{agreedDate},
+			#{creditType},
+			#{isAudit}
+		)
+	</insert>	
+
+	<update id="update" parameterType="credit">
+			update cr_credit set 
+             user_id=#{userId},
+			 cr_type=#{crType},
+			 cr_amount=#{crAmount},
+			 cr_status=#{crStatus},
+			 disposal_type=#{disposalType},
+			 commision_range=#{commisionRange},
+			 contact_name=#{contactName},
+			 contact_number=#{contactNumber},
+			 dept_type=#{deptType},
+			 debt_name=#{debtName},
+			 debt_province=#{debtProvince},
+			 debt_city=#{debtCity},
+			 debt_phone=#{debtPhone},
+			 debt_proof=#{debtProof},
+			 description=#{description},
+			 end_date=#{endDate},
+			 open_date=#{openDate},
+			 agreed_date=#{agreedDate},
+			 credit_type=#{creditType}
+			 where id = #{id}
+	</update>
+	
+	<update id="updateStatus" parameterType="credit">
+			update cr_credit set 
+			cr_status=#{crStatus}
+			where id = #{id}
+	</update>
+	
+	<update id="matchTeam" parameterType="credit">
+			update cr_credit set 
+			deal_team_name=#{dealTeamName},
+			cr_status = #{crStatus}
+			where id = #{id}
+	</update>
+	<update id="updateAudit" parameterType="credit">
+			update cr_credit set 
+			is_audit=#{isAudit}
+			where id = #{id}
+	</update>
+	
+   	<delete id="delete" parameterType="Integer">
+		 update  cr_credit set cr_status=-1 where id = #{id}
+	</delete>
+	
+	<update id="batchDelete" parameterType="java.util.List">
+		 update  cr_credit set cr_status=-1 where id in 
+		<foreach collection="list" item="id" open="(" separator="," close=")">
+			#{id}
+		</foreach>
+	</update>
+
+</mapper>

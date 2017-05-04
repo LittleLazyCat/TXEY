@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="RoleMapper">
+	
+	<resultMap type="Role" id="roleResultMap">
+		<id column="role_id" property="roleId"/>
+		<result column="role_name" property="roleName"/>
+		<result column="parent_id" property="parentId"/>
+		<result column="menu_rights" property="menuRights"/>
+		<result column="button_rights" property="buttonRights"/>
+	</resultMap>
+	
+	<!-- yang -->
+	<select id="findRolesIdByUserId" resultType="String">
+	  select distinct r.role_id
+		from sys_role r, sys_user_role ur, sys_user u
+		where r.role_id = ur.role_id 
+		and ur.user_id = u.user_id
+		and u.user_id=#{userId}
+	</select>
+	
+	<select id="count" parameterType="PageData" resultType="int">
+		select count(1)
+		from sys_role r
+		where r.status != -1
+		<if test="keyword != null and keyword != ''">
+	  	and	r.role_name like #{keyword}
+		</if>
+	</select>
+	
+	<select id="list" parameterType="PageData" resultType="PageData">
+		select  r.role_id roleId,
+				r.role_name roleName,
+				r.removable,
+				r.allocatable,
+				r.description,
+				r.status
+		from sys_role r
+		where r.status != -1
+		<if test="keyword != null and keyword != ''">
+	  	and	r.role_name like #{keyword}
+		</if>
+		limit #{from},#{size}
+	</select>
+	
+	<insert id="add" parameterType="PageData">
+		insert into sys_role (
+			role_name,
+			removable,
+			allocatable,
+			description,
+			status
+		) values (
+			#{roleName},
+			#{removable},
+			#{allocatable},
+			#{description},
+			#{status}
+		)
+	</insert>
+	
+	<select id="getById" parameterType="Integer" resultType="PageData">
+		select
+			role_id roleId,
+			role_name roleName,
+			removable,
+			allocatable,
+			description,
+			status
+		from sys_role 
+		where status != -1
+		and role_id = #{roleId}
+	</select>
+	
+	<update id="edit" parameterType="PageData">
+		update sys_role set
+			role_name	= #{roleName},
+			removable	= #{removable},
+			allocatable	= #{allocatable},
+			description	= #{description}
+		where
+			role_id		= #{roleId}
+	</update>
+	
+	<update id="delete" parameterType="Integer">
+		update sys_role set
+			status	= -1
+		where 1=1 
+		and removable=1 
+		   and role_id	= #{roleId}
+	</update>
+	
+	<update id="batchDelete" parameterType="PageData">
+		update sys_role set
+			status	= -1
+		where 1=1 
+		and removable=1 
+		   and	role_id	in
+			<foreach item="id" collection="idList" open="(" separator="," close=")">
+				#{id}
+			</foreach> 
+	</update>
+	
+	<select id="listResByRoleId" parameterType="Integer" resultType="PageData">
+		select
+			id,
+			role_id roleId,
+			resource_id resourceId,
+			resource_type resourceType
+		from sys_role_resource 
+		where role_id = #{roleId}
+	</select>
+	
+	<select id="listAllRoles" resultType="PageData">
+		select
+			role_id roleId,
+			role_name roleName,
+			description
+		from sys_role
+		where status != -1 and allocatable=1
+	</select>
+	
+	<delete id="deleteResByRoleId" parameterType="Integer">
+		delete from sys_role_resource where role_id = #{roleId}
+	</delete>
+	
+	<insert id="saveRes" parameterType="java.util.List">
+		insert into sys_role_resource (
+			role_id,
+			resource_id,
+			resource_type
+		) values
+		<foreach collection="list" item="item" index="index" separator="," >
+	        (#{item.roleId},#{item.resourceId},#{item.resourceType})
+	    </foreach>
+	</insert>
+	
+</mapper>

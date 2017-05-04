@@ -36,9 +36,9 @@ public class Crud{
 		PreparedStatement ps = null;
 		ResultSet rs = null;
 		try {
-			// ½¨Á¢Á¬½Ó
+			// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 			conn = JdbcUtils.getConnection();
-			// ´´½¨Á¬½Ó
+			// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 			String sql = "select USER_NAME,USER_PASSWORD from t_user where USER_ID = ?";
 			ps = conn.prepareStatement(sql);
 			ps.setInt(1, 1);
@@ -60,7 +60,7 @@ public class Crud{
 			ps = conn.prepareStatement(sql);
 			ps.setString(1, "123@qq.com");
 			ps.setInt(2, 10);
-			ps.executeLargeUpdate();
+			ps.executeUpdate();
 		}catch (SQLException e) {
 			// TODO: handle exception
 			throw new RunTimeExcUser(e.getMessage(), e);

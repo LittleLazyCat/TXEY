@@ -17,3 +17,5 @@
 127.0.0.1 - - [03/May/2017:19:10:53 +0800] "GET /RecordSystem/css/note.css HTTP/1.1" 304 -
 127.0.0.1 - - [03/May/2017:19:10:53 +0800] "GET /RecordSystem/js/tinyselect.js HTTP/1.1" 304 -
 127.0.0.1 - - [03/May/2017:19:10:53 +0800] "GET /RecordSystem/js/note.js HTTP/1.1" 304 -
+127.0.0.1 - - [03/May/2017:22:06:16 +0800] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [03/May/2017:22:06:16 +0800] "GET /foryou/ HTTP/1.1" 404 965

@@ -1,0 +1,42 @@
+.fa-check-square-o{
+    width:12px;
+}
+.fa-square-o{
+	width:12px;
+}
+.show-only-bottom {
+	background-color: #F7F7F7;
+	border-top:none;
+	border-left:none;
+	border-right:none;
+}
+.modal-content{
+	background-color: #F7F7F7;
+}
+th, td { white-space: nowrap; }
+.table-primary thead tr th {
+    background-color: #3c8dbc;
+    color: #fff;
+}
+.dataTables_scrollBody {margin-top: -1px;}
+.dropdown-menu{min-width: 80px;}
+table.dataTable thead > tr > th. {
+    padding-right: 30px;
+}
+.my-tab{
+	border-top: 3px solid #d2d6de;
+}
+.my-check{
+	background-color : rgba(255, 255, 255, 1);
+	margin-left : 2px;
+}
+.dropdown-toggle .fa {
+    cursor: pointer;
+}
+.input-adjust {
+	margin-top: 5px;
+	margin-right: 6px;
+}
+.input-adjust label {
+	margin-bottom: 0;
+}

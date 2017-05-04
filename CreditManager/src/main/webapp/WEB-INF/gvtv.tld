@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
+    version="2.0">
+    
+	<description>GVTV common tag library</description>
+	<display-name>gvtv tag</display-name>
+	<tlib-version>1.0</tlib-version>
+	<short-name>gvtv</short-name>
+	<uri>http://www.gvtv.com.cn/jsp/jstl/common</uri>
+  
+    <tag>
+		<description>
+		根据菜单path生成页头导航条，会自动补充菜单的层级关系
+		</description>
+	  	<name>navigater</name>
+	  	<tag-class>com.gvtv.manage.base.tag.NavigaterTag</tag-class>
+	  	<body-content>JSP</body-content>
+	  	<attribute>
+			<name>path</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+  	</tag>
+</taglib>

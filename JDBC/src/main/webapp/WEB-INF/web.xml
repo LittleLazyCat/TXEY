@@ -9,34 +9,4 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
-  <servlet>
-    <description></description>
-    <display-name>DaoTest</display-name>
-    <servlet-name>DaoTest</servlet-name>
-    <servlet-class>com.Alex.servlet.DaoTest</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>DaoTest</servlet-name>
-    <url-pattern>/DaoTest</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>DBMD</display-name>
-    <servlet-name>DBMD</servlet-name>
-    <servlet-class>com.Alex.jdbc.DBMD</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>DBMD</servlet-name>
-    <url-pattern>/DBMD</url-pattern>
-  </servlet-mapping>
-  <servlet>
-    <description></description>
-    <display-name>ParameterMetaTest</display-name>
-    <servlet-name>ParameterMetaTest</servlet-name>
-    <servlet-class>com.Alex.jdbc.ParameterMetaTest</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>ParameterMetaTest</servlet-name>
-    <url-pattern>/ParameterMetaTest</url-pattern>
-  </servlet-mapping>
 </web-app>

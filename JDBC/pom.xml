@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.maven</groupId>
+	<groupId>TXEY</groupId>
 	<artifactId>JDBC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
@@ -11,7 +11,6 @@
 		<javax.servlet.jsp.version>2.2</javax.servlet.jsp.version>
 	</properties>
 
-	<dependencyManagement>
 
 		<dependencies>
 			<dependency>
@@ -32,7 +31,13 @@
 				<version>${javax.servlet.jsp.version}</version>
 				<scope>provided</scope>
 			</dependency>
+			<!-- servlet -->
+			<dependency>
+				<groupId>javax.servlet</groupId>
+				<artifactId>javax.servlet-api</artifactId>
+				<version>3.0.1</version>
+				<scope>provided</scope>
+			</dependency>
 		</dependencies>
 
-	</dependencyManagement>
 </project>
