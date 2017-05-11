@@ -109,7 +109,7 @@ public class RecordController {
 		State state = new State();
 		state.setZtid(1);
 
-		record = new Record(new Date(), dept, kind, contact, request.getParameter("wtms"), method, time, 100.0f,
+		record = new Record(new Date(), dept, kind, contact, request.getParameter("wtms"), method, time, 0.0f,
 				employee, state, 1, request.getParameter("wxbz"));
 
 		recordService.addRecord(record);

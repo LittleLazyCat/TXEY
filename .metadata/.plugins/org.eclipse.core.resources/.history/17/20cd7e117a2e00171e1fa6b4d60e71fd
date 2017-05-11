@@ -1,7 +1,0 @@
-package com.txey.record.placeholder;
-
-import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;
-
-public class EncryptPropertyPlaceholderConfigure extends PropertyPlaceholderConfigurer {
-
-}

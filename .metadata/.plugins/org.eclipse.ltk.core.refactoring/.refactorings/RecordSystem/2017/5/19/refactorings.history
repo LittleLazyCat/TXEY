@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.txey.record.model&apos; to &apos;CreditManager/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;RecordSystem&apos;&#x0D;&#x0A;- Destination element: &apos;CreditManager/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;RecordSystem/src/main/java/com.txey.record.model&apos;" description="Copy package" destination="=CreditManager/src\/main\/java" element1="/src\/main\/java&lt;com.txey.record.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1494489548909" version="1.0"/>
+</session>
