@@ -12,6 +12,7 @@
 	<context:component-scan base-package="com.gvtv.manage.base" />
 	<context:component-scan base-package="com.gvtv.manage.projectname" />
     <context:component-scan base-package="com.credit.manage" />
+    <context:component-scan base-package="com.txey.record.dao.mybatis" /> 
 <!-- 	<mvc:annotation-driven /> -->
 	<mvc:default-servlet-handler />
 

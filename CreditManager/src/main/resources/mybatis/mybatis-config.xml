@@ -27,6 +27,16 @@
 		<typeAlias type="com.credit.manage.entity.Agreement" alias="agreement"/>
 		<!-- 分页 -->
 		<typeAlias type="com.gvtv.manage.base.entity.Page" alias="Page"/>
+		<!-- 记录系统 -->
+		<typeAlias alias="Record" type="com.txey.record.model.Record" />
+		<typeAlias alias="Contact" type="com.txey.record.model.Contact" />
+		<typeAlias alias="Dept" type="com.txey.record.model.Dept" />
+		<typeAlias alias="Employee" type="com.txey.record.model.Employee" />
+		<typeAlias alias="Kind" type="com.txey.record.model.Kind" />
+		<typeAlias alias="Method" type="com.txey.record.model.Method" />
+		<typeAlias alias="State" type="com.txey.record.model.State" />
+		<typeAlias alias="Time" type="com.txey.record.model.Time" />
+		<typeAlias alias="RecordDetail" type="com.txey.record.model.RecordDetail" />
 	</typeAliases>
 	
 	<plugins>

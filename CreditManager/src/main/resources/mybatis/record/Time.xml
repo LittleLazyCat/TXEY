@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.TimeMybatisDao">
+	<select id="getTime" resultMap="TimeMap">
+		SELECT sjid,sjmc,sjmcpy
+		FROM tb_record_time
+	</select>
+	<resultMap type="Time" id="TimeMap">
+		<constructor>
+			<idArg column="sjid" javaType="int" />
+			<arg column="sjmc" javaType="String" />
+			<arg column="sjmcpy" javaType="String" /> 
+		</constructor>
+	</resultMap>
+</mapper>

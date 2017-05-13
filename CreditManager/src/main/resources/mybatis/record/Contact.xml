@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.ContactMybatisDao">
+	<select id="getContact" resultMap="ContactMap">
+		SELECT lyid,lymc,lymcpy
+		FROM tb_record_contact
+	</select>
+	<resultMap type="Contact" id="ContactMap">
+		<constructor>
+			<idArg column="lyid" javaType="int" />
+			<arg column="lymc" javaType="String" />
+			<arg column="lymcpy" javaType="String" />
+		</constructor>
+	</resultMap>
+</mapper>

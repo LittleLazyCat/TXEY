@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>    
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txey.record.dao.mybatis.EmployeeMybatisDao">
+	<select id="getEmployee" resultMap="EmpMap">
+		SELECT ygid,ygxm,xmpy,ksid,userName,password
+		FROM tb_employee
+	</select>
+	<resultMap type="Employee" id="EmpMap">
+		<constructor>
+			<idArg column="ygid" javaType="int" />
+			<arg column="ygxm" javaType="String" />
+			<arg column="xmpy" javaType="String" />
+			<arg column="ksid" javaType="int" />
+			<arg column="userName" javaType="String" />
+			<arg column="password" javaType="String" />
+		</constructor>
+	</resultMap>
+	<select id="findEmpByuserName" parameterType="String"
+	resultType="com.txey.record.model.Employee">
+		SELECT ygid,ygxm,xmpy,ksid,userName,password
+		FROM tb_employee WHERE userName = #{userName}
+	</select>
+</mapper>
