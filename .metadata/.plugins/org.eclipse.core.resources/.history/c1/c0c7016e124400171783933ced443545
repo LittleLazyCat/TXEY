@@ -1,0 +1,6 @@
+project=ssm_report
+classPath=D:/java/workspace/AIM_ReportForm/src/main/resources/mysql-connector-java-5.1.7-bin.jar
+jdbc_driver=com.mysql.jdbc.Driver
+jdbc_url=jdbc:mysql://localhost:3306/reports
+jdbc_user=root
+jdbc_password=binyuli

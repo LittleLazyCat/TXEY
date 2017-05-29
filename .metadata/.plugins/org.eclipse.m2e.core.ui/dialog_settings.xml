@@ -10,6 +10,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ReportSystem"/>
 			<item value="CreditManager"/>
 			<item value="JDBC"/>
 			<item value="RecordSystem"/>
